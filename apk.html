@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="video-js.min.css" rel="stylesheet" />
+<div id="player-js" style="width:100%;height:100%;"></div>
+<div id="video-js" style="width:100%;height:100%;"></div>
+</head>
+<body bgcolor="#000000">
+  <video
+    id="my-video"
+    class="video-js"
+	position="fixed"
+    controls="true"
+	loop=""
+    preload=""
+	aspectRatio="16-9"
+	responsive="true"
+    poster="azotttv.svg"
+    data-setup="{}"
+  >
+    <source src="" type="application/x-mpegURL" />
+    <source src="" type="application/dash+xml" />
+    <source src="https://www.youtube.com/watch?v=djtOghUJCc4" type="video/youtube" />
+    <source src="" type="video/webm" />
+    <source src="" type="video/mp4" />
+  </video>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.11.0/video.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/3.0.1/Youtube.min.js"></script>
+  <script src="0https://lampa.mx/vender/hls/hls.js"></script>
+  <script src="0https://lampa.mx/vender/dash/dash.js"></script>
+</body>
+</html>
