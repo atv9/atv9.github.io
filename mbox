@@ -1,0 +1,86 @@
+{
+   	"apps": [{
+			"title": "SmartTube",
+			"description": "Альтернативный клиент Youtube(Последняя стабильная версия)",
+			"url": "https://github.com/yuliskov/SmartTube/releases/download/20.90s/SmartTube_stable_20.90_armeabi-v7a.apk",
+			"category": "Основные"
+		},
+		{
+			"title": "X-plore",
+			"description": "X-plore 4.32.04(Последняя стабильная версия)",
+			"url": "https://atv9.github.io/box/X-plore.apk",
+			"category": "Основные"
+		},
+        {
+			"title": "TiviMate",
+			"description": "TiviMate 4.7(Последняя стабильная версия)",
+			"url": "https://atv9.github.io/box/TiviMate.apk",
+			"category": "Основные"
+		},
+		{
+			"title": "Ott-Play",
+			"description": "Ott-Play by Alex(Последняя стабильная версия)",
+			"url": "http://ott-play.com/android/app-debug.apk",
+			"category": "Основные"
+		},
+		{
+			"title": "HDVideoBox",
+			"description": "HDVideoBox",
+			"url": "https://atv9.github.io/box/HDVideoBox.apk",
+			"category": "Основные"
+		},
+		{
+			"title": "KinoHDPremium",
+			"description": "KinoHDPremium",
+			"url": "https://www.dropbox.com/scl/fi/340sntjejybke8amvfzz1/KinoHDPremium.apk?rlkey=jgq19w1pxhsbcfak192o56u75&dl=1",
+			"category": "Основные"
+		},
+		{
+			"title": "LazyMediaDeluxe",
+			"description": "LazyMediaDeluxe",
+			"url": "https://www.dropbox.com/scl/fi/rfkmvkm1zzyf2gyet8v4p/LazyMediaDeluxe.apk?rlkey=nej9ycwi38g8k0y86sdi8h9jf&dl=1",
+			"category": "Основные"
+		},
+		{
+			"title": "TorrserveMatrix",
+			"description": "TorrserveMatrix",
+			"url": "https://www.dropbox.com/scl/fi/ypjtsxa22wfgyi047ftuj/TorrserveMatrix.apk?rlkey=55gsqidyn1d27q7r276f24a9i&dl=1",
+			"category": "Основные"
+		},
+        {
+			"title": "TiviMate",
+			"description": "TiviMate 4.4(Старая версия)",
+			"url": "https://www.dropbox.com/scl/fi/e1f42d6n4e5otbfqhk3ij/TiviMate.apk?rlkey=3so6bdthkt55lg09n05yxazj9&dl=1",
+			"category": "Основные"
+		}
+	],
+	"links": [
+                {
+			"title": "Файл Сервера TORRSERV ARM ARM7",
+			"description": "Файл для ручной установки TORRSERVE 32 bit",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm7.so0",
+			"category": "Файлы настроек"
+		},
+		{
+			"title": "Файл Сервера TORRSERV ARM64 ",
+			"description": "Файл для ручной установки TORRSERVE 64 bit",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so0",
+			"category": "Файлы настроек"
+		},
+
+		{
+			"title": "Файл ANTIZAPRET для OPEN VPN",
+			"description": "Обход блокировок в России ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://antizapret.prostovpn.org/antizapret-tcp.ovpn0",
+			"category": "Файлы настроек"
+		},
+		{
+			"title": "Файл ZABORONA для OPEN VPN",
+			"description": "Обход блокировок в Украине ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://zaborona.help/openvpn-client-config/zaborona-help_maxroutes.ovpn0",
+			"category": "Файлы настроек"
+		}
+
+
+	]
+}
