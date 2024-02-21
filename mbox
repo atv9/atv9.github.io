@@ -11,7 +11,19 @@
 			"url": "https://atv9.github.io/box/XPlore.apk",
 			"category": "Основные"
 		},
-        {
+  		{
+			"title": "Quick Optimization",
+			"description": "Очистка памяти",
+			"url": "https://atv9.github.io/box/Optimization.apk",
+			"category": "Основные"
+		},
+    		{
+			"title": "LeanKey",
+			"description": "Русская клавиатура",
+			"url": "https://atv9.github.io/box/LeanKey.apk",
+			"category": "Основные"
+		},
+                {
 			"title": "TiviMate",
 			"description": "TiviMate 4.7(Последняя стабильная версия)",
 			"url": "https://atv9.github.io/box/TiviMate.apk",
@@ -47,7 +59,7 @@
 			"url": "https://www.dropbox.com/scl/fi/ypjtsxa22wfgyi047ftuj/TorrserveMatrix.apk?rlkey=55gsqidyn1d27q7r276f24a9i&dl=1",
 			"category": "Основные"
 		},
-        {
+                {
 			"title": "TiviMate",
 			"description": "TiviMate 4.4(Старая версия)",
 			"url": "https://www.dropbox.com/scl/fi/e1f42d6n4e5otbfqhk3ij/TiviMate.apk?rlkey=3so6bdthkt55lg09n05yxazj9&dl=1",
