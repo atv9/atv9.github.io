@@ -2,7 +2,7 @@
    	"apps": [{
 			"title": "SmartTube",
 			"description": "Альтернативный клиент Youtube(Последняя стабильная версия)",
-			"url": "https://github.com/yuliskov/SmartTube/releases/download/20.90s/SmartTube_stable_20.90_armeabi-v7a.apk",
+			"url": "https://github.com/yuliskov/SmartTube/releases/download/20.90s/SmartTube_stable_20.90_x86.apk",
 			"category": "Основные"
 		},
 		{
