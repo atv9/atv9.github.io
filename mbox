@@ -37,7 +37,7 @@
 		},
 		{
 			"title": "HDVideoBox",
-			"description": "HDVideoBox",
+			"description": "HDVideoBox Кинозал",
 			"url": "https://atv9.github.io/box/HDVideoBox.apk",
 			"category": "Основные"
 		},
@@ -48,15 +48,15 @@
 			"category": "Основные"
 		},
 		{
-			"title": "LazyMediaDeluxe",
-			"description": "LazyMediaDeluxe",
+			"title": "Lazy Media Deluxe",
+			"description": "Lazy Media Deluxe Кинозал",
 			"url": "https://www.dropbox.com/scl/fi/rfkmvkm1zzyf2gyet8v4p/LazyMediaDeluxe.apk?rlkey=nej9ycwi38g8k0y86sdi8h9jf&dl=1",
 			"category": "Основные"
 		},
 		{
-			"title": "TorrserveMatrix",
-			"description": "TorrserveMatrix",
-			"url": "https://www.dropbox.com/scl/fi/ypjtsxa22wfgyi047ftuj/TorrserveMatrix.apk?rlkey=55gsqidyn1d27q7r276f24a9i&dl=1",
+			"title": "Torrserve Matrix",
+			"description": "Torrserve Matrix Просмотр видео торрентов",
+			"url": "https://atv9.github.io/box/Torrserve.apk",
 			"category": "Основные"
 		},
                 {
