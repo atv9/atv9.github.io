@@ -164,9 +164,6 @@ textarea{resize:none}
     float:center;
     width: 99%;
     margin: 0px auto;
-    left: 0px auto;
-    right: 0px auto;
-    text-align:center;
 }
 
 
@@ -181,8 +178,7 @@ clear:both;
 }
 
 
-.cas-bg {
-  text-align: center;
-}
-
+.center {text-align: center;}
+.center table { margin-left: auto; margin-right: auto; text-align: left;}
+.center th { text-align: center !important; }
 
