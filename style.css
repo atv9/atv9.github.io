@@ -178,6 +178,9 @@ clear:both;
 }
 
 
+
+body, div, th, h1, h2 {font-family: sans-serif;}
+table {border-collapse: collapse; border-style:none; vertical-align: baseline; }
 .center {text-align: center;}
 .center table { margin-left: auto; margin-right: auto; text-align: left;}
 .center th { text-align: center !important; }
