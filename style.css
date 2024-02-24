@@ -155,8 +155,9 @@ textarea{resize:none}
 {
     width: 99%;
      float:center;
-     margin: 0px auto;
-    left: 2%;
+     margin: auto;
+    left: auto;
+    right: auto;
     text-align: center;
 }
 
