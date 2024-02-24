@@ -154,11 +154,11 @@ textarea{resize:none}
 .wrapper
 {
     width: 99%;
-     float:center;
-     margin: auto;
-    left: auto;
-    right: auto;
-    text-align: center;
+    float:center;
+    margin:auto;
+    left:auto;
+    right:auto;
+    text-align:center;
 }
 
 .wrapperfoot
@@ -166,6 +166,9 @@ textarea{resize:none}
     float:center;
     width: 99%;
     margin: 0px auto;
+    left: 0px auto;
+    right: 0px auto;
+    text-align:center;
 }
 
 
