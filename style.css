@@ -156,9 +156,7 @@ textarea{resize:none}
     width: 99%;
      float:center;
      margin: 0px auto;
-    position: fixed;
-    left: 5%;
-    top: 6%;
+    left: 2%;
     text-align: center;
 }
 
