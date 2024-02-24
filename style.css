@@ -153,13 +153,15 @@ textarea{resize:none}
 
 .wrapper
 {
-    width: 96%;
+    float:center;
+    width: 99%;
     margin: 0px auto;
 }
 
 .wrapperfoot
 {
-    width: 96%;
+    float:center;
+    width: 99%;
     margin: 0px auto;
 }
 
