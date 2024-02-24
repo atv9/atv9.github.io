@@ -155,10 +155,8 @@ textarea{resize:none}
 {
     width: 99%;
     float:center;
-    margin:auto;
-    left:auto;
-    right:auto;
-    text-align:center;
+    margin: 0px auto;
+    align-items: center;
 }
 
 .wrapperfoot
