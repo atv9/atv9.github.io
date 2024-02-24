@@ -118,6 +118,10 @@ a.button5:active {
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
 object,iframe,audio,video,table,embed{max-width:100%}
 body{background:#353535 url(http://tr.at.ua/_tbkp/bg.png);margin:0;padding:0;font-size:14px;font-family:Tahoma,Geneva,sans-serif;color:#cacaca}
+
+.center {text-align: center;}
+.center table { margin-left: auto; margin-right: auto; text-align: left;}
+
 table{font-size:100%}
 img,form{border:0;margin:0}
 a,input{outline:none}
@@ -179,9 +183,8 @@ clear:both;
 
 
 
-body, div, th, h1, h2 {font-family: sans-serif;}
-table {border-collapse: collapse; border-style:none; vertical-align: baseline; }
-.center {text-align: center;}
-.center table { margin-left: auto; margin-right: auto; text-align: left;}
-.center th { text-align: center !important; }
+
+
+
+
 
