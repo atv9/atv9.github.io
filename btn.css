@@ -13,3 +13,6 @@ margin: 0.3%;
     overflow: hidden;
     display: block;}
 
+@viewport {
+  orientation: landscape;
+}
