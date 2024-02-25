@@ -2,6 +2,11 @@
 .btn:hover{box-shadow:0 0 24px #FFFFFF}
 .btn img{width:107px;object-fit:contain;margin-bottom: 0px;}
 .btn h2{margin-top:0px}
+.btn { background-color: rgba(9, 1, 9, 0.30);
+border-radius: 7%;
+margin: 0.3%;
+}
+
 
 
 .btn span {      height: 40px;
