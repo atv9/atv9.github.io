@@ -158,14 +158,11 @@ textarea{resize:none}
 .wrapper
 {
     width: 99%;
-    float:center;
     margin: 0px auto;
-    align-items: center;
 }
 
 .wrapperfoot
 {
-    float:center;
     width: 99%;
     margin: 0px auto;
 }
