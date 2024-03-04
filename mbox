@@ -3,7 +3,7 @@
 			"title": "SmartTube",
 			"description": "Альтернативный клиент Youtube(Последняя стабильная версия)",
 			"url": "https://github.com/yuliskov/SmartTube/releases/download/20.90s/SmartTube_stable_20.90_x86.apk",
-			"category": "Основные"
+
 		},
 		{
 			"title": "X-plore",
@@ -70,13 +70,13 @@
                 {
 			"title": "Файл Сервера TORRSERV ARM ARM7",
 			"description": "Файл для ручной установки TORRSERVE 32 bit",
-			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm7.so0",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm7.so",
 			"category": "Файлы настроек2"
 		},
 		{
 			"title": "Файл Сервера TORRSERV ARM64 ",
 			"description": "Файл для ручной установки TORRSERVE 64 bit",
-			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so0",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so",
 			"category": "Файлы настроек"
 		},
 
