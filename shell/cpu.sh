@@ -1,0 +1,32 @@
+#!/system/bin/sh
+su
+
+echo "powersave" > /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+echo "powersave" > /sys/devices/system/cpu/cpufreq/policy1/scaling_governor
+echo "powersave" > /sys/devices/system/cpu/cpufreq/policy2/scaling_governor
+echo "powersave" > /sys/devices/system/cpu/cpufreq/policy3/scaling_governor
+echo "powersave" > /sys/devices/system/cpu/cpufreq/policy4/scaling_governor
+echo "powersave" > /sys/devices/system/cpu/cpufreq/policy5/scaling_governor
+echo "powersave" > /sys/devices/system/cpu/cpufreq/policy6/scaling_governor
+echo "powersave" > /sys/devices/system/cpu/cpufreq/policy7/scaling_governor
+
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy1/scaling_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy2/scaling_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy3/scaling_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy4/scaling_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy5/scaling_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy6/scaling_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy7/scaling_max_freq
+
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy0/cpuinfo_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy1/cpuinfo_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy2/cpuinfo_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy3/cpuinfo_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy4/cpuinfo_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy5/cpuinfo_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy6/cpuinfo_max_freq
+echo "1200000" > /sys/devices/system/cpu/cpufreq/policy7/cpuinfo_max_freq
+
+
+return 0
