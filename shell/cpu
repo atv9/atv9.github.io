@@ -29,4 +29,10 @@ echo "1200000" > /sys/devices/system/cpu/cpufreq/policy6/cpuinfo_max_freq
 echo "1200000" > /sys/devices/system/cpu/cpufreq/policy7/cpuinfo_max_freq
 
 
+resetprop persist.sys.mouse.right.back true
+resetprop persist.service.audio.useFixedVolume false
+
+resetprop persist.sys.nativebridge 1
+resetprop persist.service.bdroid.bdaddr 22:22:67:c6:69:73
+
 return 0
