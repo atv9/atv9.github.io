@@ -1,20 +1,20 @@
 {
    	"apps": [{
 			"title": "SmartTube",
-			"description": "Альтернативный клиент Youtube(Последняя стабильная версия)",
-			"url": "https://github.com/yuliskov/SmartTube/releases/download/20.90s/SmartTube_stable_20.90_x86.apk",
+			"description": "Альтернативный клиент Youtube (Стабильная версия)",
+			"url": "https://github.com/yuliskov/SmartTube/releases/download/21.54s/SmartTube_stable_21.54_armeabi-v7a.apk",
 			"category": "Основные"
 		},
 		{
 			"title": "X-plore",
-			"description": "X-plore v4.35.08(Последняя стабильная версия MOD без рекламы)",
+			"description": "X-plore (MOD без рекламы)",
 			"url": "https://atv9.github.io/box/XPlore.apk",
 			"category": "Основные"
 		},
   		{
-			"title": "Quick Optimization",
-			"description": "Очистка памяти",
-			"url": "https://atv9.github.io/box/Optimization.apk",
+			"title": "Ram cleaner",
+			"description": "Очистка памяти (MOD для ТВ)",
+			"url": "https://atv9.github.io/box/Ramcleaner.apk",
 			"category": "Основные"
 		},
     		{
@@ -25,14 +25,14 @@
 		},
                 {
 			"title": "TiviMate",
-			"description": "TiviMate 4.7(Последняя стабильная версия)",
+			"description": "TiviMate (Стабильная версия)",
 			"url": "https://atv9.github.io/box/TiviMate.apk",
 			"category": "Основные"
 		},
 		{
 			"title": "Ott-Play",
-			"description": "Ott-Play by Alex(Последняя стабильная версия)",
-			"url": "http://ott-play.com/android/app-debug.apk",
+			"description": "Ott-Play by Alex (Стабильная версия)",
+			"url": "https://atv9.github.io/box/OttPlay.apk",
 			"category": "Основные"
 		},
 		{
@@ -57,6 +57,18 @@
 			"title": "Torrserve Matrix",
 			"description": "Torrserve Matrix Просмотр видео торрентов",
 			"url": "https://atv9.github.io/box/Torrserve.apk",
+			"category": "Основные"
+		},
+		{
+			"title": "Lampa",
+			"description": "Lampa",
+			"url": "https://atv9.github.io/box/Lampa.apk",
+			"category": "Основные"
+		},
+		{
+			"title": "Lampa TV",
+			"description": "Lampa TV",
+			"url": "https://atv9.github.io/box/LampaTV.apk",
 			"category": "Основные"
 		},
                 {
@@ -93,6 +105,65 @@
 			"category": "Файлы настроек"
 		}
 
+	]
+
+
+	"Apps": [
+                {
+			"title": "Device Info",
+			"description": "Device Info",
+			"url": "https://atv9.github.io/box/DeviceInfo.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Root Explorer",
+			"description": "Root Explorer",
+			"url": "https://atv9.github.io/box/RootExplorer.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Internet SpeedTest",
+			"description": "Internet SpeedTest",
+			"url": "https://atv9.github.io/box/SpeedTest.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Power Menu",
+			"description": "Power Menu",
+			"url": "https://atv9.github.io/box/PowerMenu.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Volume Booster",
+			"description": "Volume Booster",
+			"url": "https://atv9.github.io/box/VolumeBooster.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "TV Bro Browser",
+			"description": "TV Bro Browser",
+			"url": "https://atv9.github.io/box/TVBro.apk",
+			"category": "Утилиты"
+		},
+
+
+
+  
+		{
+			"title": "MT manager",
+			"description": "MT manager",
+			"url": "https://atv9.github.io/box/MT.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "Lucky Patcher",
+			"description": "Lucky Patcher",
+			"url": "https://atv9.github.io/box/LP.apk",
+			"category": "Утилиты"
+		}
+
 
 	]
+
+
 }
