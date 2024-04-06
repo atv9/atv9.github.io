@@ -11,12 +11,6 @@
 			"url": "https://atv9.github.io/box/XPlore.apk",
 			"category": "Основные"
 		},
-  		{
-			"title": "Ram Cleaner",
-			"description": "Очистка памяти (MOD для ТВ)",
-			"url": "https://atv9.github.io/box/RamCleaner.apk",
-			"category": "Основные"
-		},
     		{
 			"title": "LeanKey",
 			"description": "Русская клавиатура",
@@ -76,50 +70,18 @@
 			"description": "MX Player Pro",
 			"url": "https://www.dropbox.com/scl/fi/z89pb10jal2r2s0ftxs1h/MXPlayerPro.apk?rlkey=o1rly2401y2lkv98xxjjxtat8&dl=1",
 			"category": "Основные"
-		}
-	],
-	"links": [
-                {
-			"title": "Файл Сервера TORRSERV ARM ARM7",
-			"description": "Файл для ручной установки TORRSERVE 32 bit",
-			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm7.so",
-			"category": "Файлы настроек2"
 		},
-		{
-			"title": "Файл Сервера TORRSERV ARM64 ",
-			"description": "Файл для ручной установки TORRSERVE 64 bit",
-			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so",
-			"category": "Файлы настроек"
-		},
-
-		{
-			"title": "Файл ANTIZAPRET для OPEN VPN",
-			"description": "Обход блокировок в России ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://antizapret.prostovpn.org/antizapret-tcp.ovpn0",
-			"category": "Файлы настроек"
-		},
-		{
-			"title": "Файл ZABORONA для OPEN VPN",
-			"description": "Обход блокировок в Украине ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://zaborona.help/openvpn-client-config/zaborona-help_maxroutes.ovpn0",
-			"category": "Файлы настроек"
-		}
-
-	]
-
-
-	"Apps": [
-   		{
+     		{
 			"title": "Ram Cleaner",
 			"description": "Очистка памяти (MOD для ТВ)",
 			"url": "https://atv9.github.io/box/RamCleaner.apk",
-			"category": "Основные"
+			"category": "Утилиты"
 		},
     		{
 			"title": "App Driver",
 			"description": "Меню с приложениями AOSP",
 			"url": "https://atv9.github.io/box/AppDrawer.apk",
-			"category": "Основные"
+			"category": "Утилиты"
 		},
                 {
 			"title": "Device Info",
@@ -157,10 +119,6 @@
 			"url": "https://atv9.github.io/box/TVBro.apk",
 			"category": "Утилиты"
 		},
-
-
-
-  
 		{
 			"title": "MT manager",
 			"description": "MT manager",
@@ -173,9 +131,34 @@
 			"url": "https://atv9.github.io/box/LP.apk",
 			"category": "Утилиты"
 		}
+	],
+	"links": [
+                {
+			"title": "Файл Сервера TORRSERV ARM ARM7",
+			"description": "Файл для ручной установки TORRSERVE 32 bit",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm7.so",
+			"category": "Файлы настроек2"
+		},
+		{
+			"title": "Файл Сервера TORRSERV ARM64 ",
+			"description": "Файл для ручной установки TORRSERVE 64 bit",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so",
+			"category": "Файлы настроек"
+		},
 
+		{
+			"title": "Файл ANTIZAPRET для OPEN VPN",
+			"description": "Обход блокировок в России ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://antizapret.prostovpn.org/antizapret-tcp.ovpn0",
+			"category": "Файлы настроек"
+		},
+		{
+			"title": "Файл ZABORONA для OPEN VPN",
+			"description": "Обход блокировок в Украине ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://zaborona.help/openvpn-client-config/zaborona-help_maxroutes.ovpn0",
+			"category": "Файлы настроек"
+		}
 
 	]
-
 
 }
