@@ -1,7 +1,7 @@
 {
    	"apps": [{
 			"title": "SmartTube",
-			"description": "Альтернативный клиент Youtube (Стабильная версия)",
+			"description": "Альтернативный клиент Youtube для ТВ (Стабильная версия)",
 			"url": "https://github.com/yuliskov/SmartTube/releases/download/21.54s/SmartTube_stable_21.54_armeabi-v7a.apk",
 			"category": "Основные"
 		},
@@ -12,9 +12,9 @@
 			"category": "Основные"
 		},
   		{
-			"title": "Ram cleaner",
+			"title": "Ram Cleaner",
 			"description": "Очистка памяти (MOD для ТВ)",
-			"url": "https://atv9.github.io/box/Ramcleaner.apk",
+			"url": "https://atv9.github.io/box/RamCleaner.apk",
 			"category": "Основные"
 		},
     		{
@@ -44,19 +44,19 @@
 		{
 			"title": "KinoHDPremium",
 			"description": "KinoHDPremium",
-			"url": "https://www.dropbox.com/scl/fi/340sntjejybke8amvfzz1/KinoHDPremium.apk?rlkey=jgq19w1pxhsbcfak192o56u75&dl=1",
+			"url": "https://atv9.github.io/box/KinoHDPremium.apk",
 			"category": "Основные"
 		},
 		{
 			"title": "Lazy Media Deluxe",
 			"description": "Lazy Media Deluxe Кинозал",
-			"url": "https://www.dropbox.com/scl/fi/rfkmvkm1zzyf2gyet8v4p/LazyMediaDeluxe.apk?rlkey=nej9ycwi38g8k0y86sdi8h9jf&dl=1",
+			"url": "https://atv9.github.io/box/LazyMediaDeluxe.apk",
 			"category": "Основные"
 		},
 		{
 			"title": "Torrserve Matrix",
 			"description": "Torrserve Matrix Просмотр видео торрентов",
-			"url": "https://atv9.github.io/box/Torrserve.apk",
+			"url": "https://atv9.github.io/box/TorrServe.apk",
 			"category": "Основные"
 		},
 		{
@@ -72,9 +72,9 @@
 			"category": "Основные"
 		},
                 {
-			"title": "TiviMate",
-			"description": "TiviMate 4.4(Старая версия)",
-			"url": "https://www.dropbox.com/scl/fi/e1f42d6n4e5otbfqhk3ij/TiviMate.apk?rlkey=3so6bdthkt55lg09n05yxazj9&dl=1",
+			"title": "MX Player Pro",
+			"description": "MX Player Pro",
+			"url": "https://www.dropbox.com/scl/fi/z89pb10jal2r2s0ftxs1h/MXPlayerPro.apk?rlkey=o1rly2401y2lkv98xxjjxtat8&dl=1",
 			"category": "Основные"
 		}
 	],
