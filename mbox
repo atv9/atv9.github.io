@@ -77,6 +77,12 @@
 			"url": "https://atv9.github.io/box/TitanPlayer.apk",
 			"category": "Основные"
 		},
+    		{
+			"title": "M3U Player",
+			"description": "M3U Player (IPTV Player)",
+			"url": "https://atv9.github.io/box/M3UPlayer.apk",
+			"category": "Основные"
+		},
                 {
 			"title": "MX Player Pro",
 			"description": "MX Player Pro",
