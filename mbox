@@ -109,6 +109,18 @@
 
 
 	"Apps": [
+   		{
+			"title": "Ram Cleaner",
+			"description": "Очистка памяти (MOD для ТВ)",
+			"url": "https://atv9.github.io/box/RamCleaner.apk",
+			"category": "Основные"
+		},
+    		{
+			"title": "App Driver",
+			"description": "Меню с приложениями AOSP",
+			"url": "https://atv9.github.io/box/AppDrawer.apk",
+			"category": "Основные"
+		},
                 {
 			"title": "Device Info",
 			"description": "Device Info",
