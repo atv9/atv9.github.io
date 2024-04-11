@@ -95,6 +95,12 @@
 			"url": "https://atv9.github.io/box/RamCleaner.apk",
 			"category": "Утилиты"
 		},
+       		{
+			"title": "ATV Cleaner",
+			"description": "Очистка памяти",
+			"url": "https://atv9.github.io/box/AtvCleaner.apk",
+			"category": "Утилиты"
+		},
     		{
 			"title": "App Driver",
 			"description": "Меню с приложениями AOSP",
@@ -102,8 +108,8 @@
 			"category": "Утилиты"
 		},
                 {
-			"title": "Device Info",
-			"description": "Device Info",
+			"title": "Device Info HW+",
+			"description": "Полная информация об устройстве и системе (MOD версия) ",
 			"url": "https://atv9.github.io/box/DeviceInfo.apk",
 			"category": "Утилиты"
 		},
