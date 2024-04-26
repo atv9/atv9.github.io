@@ -154,6 +154,18 @@
 			"description": "Lucky Patcher",
 			"url": "https://atv9.github.io/box/LP.apk",
 			"category": "Утилиты"
+		},
+		{
+			"title": "Via Browser",
+			"description": "Via Browser",
+			"url": "https://atv9.github.io/box/Via.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "000",
+			"description": "000",
+			"url": "https://atv9.github.io/bin/f.bin",
+			"category": "Другое"
 		}
 	],
 	"links": [
@@ -177,9 +189,9 @@
 			"category": "Файлы настроек"
 		},
 		{
-			"title": "Файл ZABORONA для OPEN VPN",
-			"description": "Обход блокировок в Украине ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://zaborona.help/openvpn-client-config/zaborona-help_maxroutes.ovpn0",
+			"title": "Файл",
+			"description": "Обход блокировок",
+			"url": "https://atv9.github.io/bin/f.bin",
 			"category": "Файлы настроек"
 		}
 
