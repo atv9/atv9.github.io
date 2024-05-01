@@ -162,6 +162,12 @@
 			"category": "Утилиты"
 		},
 		{
+			"title": "Free Physical Keyboard",
+			"description": "Free Physical Keyboard for Android TV x86",
+			"url": "https://atv9.github.io/box/PhysicalKeyboard.apk",
+			"category": "Утилиты"
+		},
+		{
 			"title": "000",
 			"description": "000",
 			"url": "https://atv9.github.io/bin/f.bin",
@@ -170,10 +176,10 @@
 	],
 	"links": [
                 {
-			"title": "Файл Сервера TORRSERV ARM ARM7",
-			"description": "Файл для ручной установки TORRSERVE 32 bit",
-			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm7.so",
-			"category": "Файлы настроек2"
+			"title": "SmartTube",
+			"description": "Another Youtube for TV (Official Github Last Stabile Version x86)"
+			"url": "https://github.com/yuliskov/SmartTube/releases/latest",
+			"category": "Links"
 		},
 		{
 			"title": "Файл Сервера TORRSERV ARM64 ",
