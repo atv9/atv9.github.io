@@ -172,6 +172,12 @@
 			"description": "000",
 			"url": "https://atv9.github.io/bin/f.bin",
 			"category": "Другое"
+		},
+		{
+			"title": "🌟 MX Pro",
+			"description": "MX Player Pro v1.68.4 armeabi-v7a",
+			"url": "https://atv9.github.io/bin/MXPro",
+			"category": "Видеоплееры"
 		}
 	],
 	"links": [
