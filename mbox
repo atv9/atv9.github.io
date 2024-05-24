@@ -183,15 +183,15 @@
 	"links": [
                 {
 			"title": "SmartTube",
-			"description": "Youtube for TV (Official Github Last Stabile Version x86)",
+			"description": "Youtube for TV (Official Github - Last Stabile Version)",
 			"url": "https://github.com/yuliskov/SmartTube/releases/latest",
 			"category": "Links"
 		},
 		{
-			"title": "Файл Сервера TORRSERV ARM64 ",
-			"description": "Файл для ручной установки TORRSERVE 64 bit",
-			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so",
-			"category": "Файлы настроек"
+			"title": "AuroraStore",
+			"description": "AuroraStore (Official Gitlab - Last Stabile Version)",
+			"url": "https://gitlab.com/AuroraOSS/AuroraStore/-/releases",
+			"category": "Links"
 		},
 
 		{
