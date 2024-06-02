@@ -194,11 +194,25 @@
 			"category": "Links"
 		},
 
+
+
 		{
-			"title": "Файл ANTIZAPRET для OPEN VPN",
-			"description": "Обход блокировок в России ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://antizapret.prostovpn.org/antizapret-tcp.ovpn0",
-			"category": "Файлы настроек"
+			"title": "TorrServer",
+			"description": "TorrServerMatrix by YouROK (Official Github - Last Stabile Version)",
+			"url": "https://github.com/YouROK/TorrServer/releases/latest",
+			"category": "Links"
+		},
+		{
+			"title": "LAMPA",
+			"description": "LAMPA App (Official Github - Last Stabile Version)",
+			"url": "https://github.com/lampa-app/LAMPA/releases/latest",
+			"category": "Links"
+		},
+		{
+			"title": "Lampa TV",
+			"description": "Lampa TV by Nemiroff (Official Github - Last Stabile Version)",
+			"url": "https://github.com/Nemiroff/lampa/blob/main/apk/LampaTV_v7.7.9-115.apk",
+			"category": "Links"
 		},
 		{
 			"title": "Файл",
