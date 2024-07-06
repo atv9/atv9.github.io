@@ -1,5 +1,98 @@
 {
-   	"apps": [{
+	"links": [
+        {
+			"title": "SmartTube",
+			"description": "Youtube for TV (Official Github - Last Stabile Version)",
+			"url": "https://github.com/yuliskov/SmartTube/releases/latest",
+			"category": "Links"
+		},
+		{
+			"title": "AuroraStore",
+			"description": "AuroraStore (Official Gitlab - Last Stabile Version)",
+			"url": "https://gitlab.com/AuroraOSS/AuroraStore/-/releases",
+			"category": "Links"
+		},
+		{
+			"title": "TorrServer",
+			"description": "TorrServerMatrix by YouROK (Official Github - Last Stabile Version)",
+			"url": "https://github.com/YouROK/TorrServer/releases/latest",
+			"category": "Links"
+		},
+		{
+			"title": "LAMPA",
+			"description": "LAMPA App (Official Github - Last Stabile Version)",
+			"url": "https://github.com/lampa-app/LAMPA/releases/latest",
+			"category": "Links"
+		},
+		{
+			"title": "Lampa TV",
+			"description": "Lampa TV by Nemiroff (Official Github - Last Stabile Version)",
+			"url": "https://github.com/Nemiroff/lampa/blob/main/apk/LampaTV_v7.7.9-115.apk",
+			"category": "Links"
+		},
+		{
+			"title": "Файл",
+			"description": "Обход блокировок",
+			"url": "https://atv9.github.io/bin/f.bin",
+			"category": "Links"
+		},
+		{
+			"title": "Файл",
+			"description": "Обход блокировок",
+			"url": "https://atv9.github.io/bin/f.bin",
+			"category": "Links"
+		},
+		{
+			"title": "Файл",
+			"description": "Обход блокировок",
+			"url": "https://atv9.github.io/bin/f.bin",
+			"category": "Links"
+		},
+		{
+			"title": "https://androidtvbox.ru",
+			"description": "Сайт с приложениями",
+			"url": "https://androidtvbox.ru/",
+			"category": "Links"
+		},
+		{
+			"title": "https://android-hit.ru",
+			"description": "Сайт с приложениями",
+			"url": "https://android-hit.ru/",
+			"category": "Links"
+		},
+		{
+			"title": "https://www.apkmirror.com",
+			"description": "Сайт с приложениями",
+			"url": "https://www.apkmirror.com/",
+			"category": "Links"
+		},
+		{
+			"title": "https://apkcombo.com",
+			"description": "Сайт с приложениями",
+			"url": "https://apkcombo.com/ru/",
+			"category": "Links"
+		},
+		{
+			"title": "https://www.tvbox.one",
+			"description": "Сайт с приложениями",
+			"url": "https://www.tvbox.one/",
+			"category": "Links"
+		},
+		{
+			"title": "https://rsload.net",
+			"description": "Сайт с приложениями",
+			"url": "https://rsload.net/mobile/android/",
+			"category": "Links"
+		},
+		{
+			"title": "https://dtv.plus",
+			"description": "Сайт с приложениями",
+			"url": "https://dtv.plus/",
+			"category": "Links"
+		}
+	],
+   	"apps": [
+	    {
 			"title": "SmartTube",
 			"description": "Альтернативный клиент Youtube для ТВ (Стабильная версия)",
 			"url": "https://github.com/yuliskov/SmartTube/releases/download/21.69s/SmartTube_stable_21.69_x86.apk",
@@ -77,37 +170,37 @@
 			"url": "https://atv9.github.io/box/TitanPlayer.apk",
 			"category": "Основные"
 		},
-    		{
+    	{
 			"title": "M3U Player",
 			"description": "M3U Player (IPTV Player)",
 			"url": "https://atv9.github.io/box/M3UPlayer.apk",
 			"category": "Основные"
 		},
-                {
+        {
 			"title": "MX Player Pro",
 			"description": "MX Player Pro",
 			"url": "https://www.dropbox.com/scl/fi/z89pb10jal2r2s0ftxs1h/MXPlayerPro.apk?rlkey=o1rly2401y2lkv98xxjjxtat8&dl=1",
 			"category": "Основные"
 		},
-     		{
+     	{
 			"title": "Ram Cleaner",
 			"description": "Очистка памяти (MOD для ТВ)",
 			"url": "https://atv9.github.io/box/RamCleaner.apk",
 			"category": "Утилиты"
 		},
-       		{
+       	{
 			"title": "ATV Cleaner",
 			"description": "Очистка памяти",
 			"url": "https://atv9.github.io/box/AtvCleaner.apk",
 			"category": "Утилиты"
 		},
-    		{
+    	{
 			"title": "App Driver",
 			"description": "Меню с приложениями AOSP",
 			"url": "https://atv9.github.io/box/AppDrawer.apk",
 			"category": "Утилиты"
 		},
-                {
+        {
 			"title": "Device Info HW+",
 			"description": "Полная информация об устройстве и системе (MOD версия) ",
 			"url": "https://atv9.github.io/box/DeviceInfo.apk",
@@ -179,102 +272,5 @@
 			"url": "https://atv9.github.io/bin/MXPro.zip",
 			"category": "Видеоплееры"
 		}
-	],
-	"links": [
-                {
-			"title": "SmartTube",
-			"description": "Youtube for TV (Official Github - Last Stabile Version)",
-			"url": "https://github.com/yuliskov/SmartTube/releases/latest",
-			"category": "Links"
-		},
-		{
-			"title": "AuroraStore",
-			"description": "AuroraStore (Official Gitlab - Last Stabile Version)",
-			"url": "https://gitlab.com/AuroraOSS/AuroraStore/-/releases",
-			"category": "Links"
-		},
-
-
-
-		{
-			"title": "TorrServer",
-			"description": "TorrServerMatrix by YouROK (Official Github - Last Stabile Version)",
-			"url": "https://github.com/YouROK/TorrServer/releases/latest",
-			"category": "Links"
-		},
-		{
-			"title": "LAMPA",
-			"description": "LAMPA App (Official Github - Last Stabile Version)",
-			"url": "https://github.com/lampa-app/LAMPA/releases/latest",
-			"category": "Links"
-		},
-		{
-			"title": "Lampa TV",
-			"description": "Lampa TV by Nemiroff (Official Github - Last Stabile Version)",
-			"url": "https://github.com/Nemiroff/lampa/blob/main/apk/LampaTV_v7.7.9-115.apk",
-			"category": "Links"
-		},
-		{
-			"title": "Файл",
-			"description": "Обход блокировок",
-			"url": "https://atv9.github.io/bin/f.bin",
-			"category": "Файлы настроек"
-		},
-		{
-			"title": "Файл",
-			"description": "Обход блокировок",
-			"url": "https://atv9.github.io/bin/f.bin",
-			"category": "Links"
-		},
-		{
-			"title": "Файл",
-			"description": "Обход блокировок",
-			"url": "https://atv9.github.io/bin/f.bin",
-			"category": "Links"
-		},
-		{
-			"title": "https://androidtvbox.ru",
-			"description": "Сайт с приложениями",
-			"url": "https://androidtvbox.ru/",
-			"category": "Links"
-		},
-		{
-			"title": "https://android-hit.ru",
-			"description": "Сайт с приложениями",
-			"url": "https://android-hit.ru/",
-			"category": "Links"
-		},
-		{
-			"title": "https://www.apkmirror.com",
-			"description": "Сайт с приложениями",
-			"url": "https://www.apkmirror.com/",
-			"category": "Links"
-		},
-		{
-			"title": "https://apkcombo.com",
-			"description": "Сайт с приложениями",
-			"url": "https://apkcombo.com/ru/",
-			"category": "Links"
-		},
-		{
-			"title": "https://www.tvbox.one",
-			"description": "Сайт с приложениями",
-			"url": "https://www.tvbox.one/",
-			"category": "Links"
-		},
-		{
-			"title": "https://rsload.net",
-			"description": "Сайт с приложениями",
-			"url": "https://rsload.net/mobile/android/",
-			"category": "Links"
-		},
-		{
-			"title": "https://dtv.plus",
-			"description": "Сайт с приложениями",
-			"url": "https://dtv.plus/",
-			"category": "Links"
-		}
-
 	]
-
 }
