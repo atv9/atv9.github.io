@@ -93,9 +93,9 @@
 	],
    	"apps": [
 	    {
-			"title": "SmartTube",
-			"description": "Альтернативный клиент Youtube для ТВ (Стабильная версия)",
-			"url": "https://github.com/yuliskov/SmartTube/releases/download/21.69s/SmartTube_stable_21.69_x86.apk",
+			"title": "AuroraStore artmod",
+			"description": "Клиент AuroraStore для Андроид ТВ (Модификация для Nexus Player)",
+			"url": "https://atv9.github.io/box/AuroraStore.apk",
 			"category": "Основные"
 		},
 		{
@@ -106,7 +106,7 @@
 		},
     		{
 			"title": "LeanKey",
-			"description": "Русская клавиатура",
+			"description": "Мультиязычная клавиатура",
 			"url": "https://atv9.github.io/box/LeanKey.apk",
 			"category": "Основные"
 		},
@@ -183,15 +183,15 @@
 			"category": "Основные"
 		},
      	{
-			"title": "Ram Cleaner",
-			"description": "Очистка памяти (MOD для ТВ)",
-			"url": "https://atv9.github.io/box/RamCleaner.apk",
+			"title": "ATV Ram Cleaner",
+			"description": "Очистка оперативной памяти (MOD для ТВ)",
+			"url": "https://atv9.github.io/box/AtvCleaner.apk",
 			"category": "Утилиты"
 		},
        	{
-			"title": "ATV Cleaner",
-			"description": "Очистка памяти",
-			"url": "https://atv9.github.io/box/AtvCleaner.apk",
+			"title": "ATV Monitoring",
+			"description": "Мониторинг ресурсов системы (RAM-CPU-TEMP)",
+			"url": "https://atv9.github.io/box/Monitoring.apk",
 			"category": "Утилиты"
 		},
     	{
@@ -207,14 +207,14 @@
 			"category": "Утилиты"
 		},
 		{
-			"title": "Root Explorer",
-			"description": "Root Explorer",
-			"url": "https://atv9.github.io/box/RootExplorer.apk",
+			"title": "Device Info Overlay",
+			"description": "Индикаторы",
+			"url": "https://atv9.github.io/box/InfoOverlay.apk",
 			"category": "Утилиты"
 		},
 		{
 			"title": "Internet SpeedTest",
-			"description": "Internet SpeedTest",
+			"description": "Тест скорости сети",
 			"url": "https://atv9.github.io/box/SpeedTest.apk",
 			"category": "Утилиты"
 		},
@@ -226,7 +226,7 @@
 		},
 		{
 			"title": "Volume Booster",
-			"description": "Volume Booster",
+			"description": "Усилитель звука",
 			"url": "https://atv9.github.io/box/VolumeBooster.apk",
 			"category": "Утилиты"
 		},
@@ -255,9 +255,15 @@
 			"category": "Утилиты"
 		},
 		{
-			"title": "Free Physical Keyboard",
-			"description": "Free Physical Keyboard for Android TV x86",
+			"title": "Physical Keyboard",
+			"description": "RU/EN Физическая клавиатура",
 			"url": "https://atv9.github.io/box/PhysicalKeyboard.apk",
+			"category": "Утилиты"
+		},
+		{
+			"title": "NetflixTV",
+			"description": "Netflix for Android TV",
+			"url": "https://atv9.github.io/box/NetflixTV.apk",
 			"category": "Утилиты"
 		},
 		{
