@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>OTT-Play Preferences</comment>
+<entry key="sEfun">1</entry>
+<entry key="m3ucList"/>
+<entry key="iVer">59</entry>
+<entry key="m3usPlayers">1</entry>
+<entry key="m3uepgTimers">[]</entry>
+<entry key="sEditor">1</entry>
+<entry key="sPageSize">15</entry>
+<entry key="sADfun">15</entry>
+<entry key="m3uaZooms"/>
+<entry key="sBufSize">3</entry>
+<entry key="sNoColorKeys">1</entry>
+<entry key="sArrowFun">2</entry>
+<entry key="sARfun">4</entry>
+<entry key="sPermanentTime">1</entry>
+<entry key="m3uaAspects"/>
+<entry key="m3umedHistory"/>
+<entry key="sALfun">1</entry>
+<entry key="sPrevCount">0</entry>
+<entry key="ottplaylang">_rus</entry>
+<entry key="ottplayprov">m3u</entry>
+<entry key="m3uaAudios"/>
+<entry key="m3ufavoritesArray"/>
+<entry key="m3uprevArr">[{"ci":4140662017,"c":0,"i":4}]</entry>
+<entry key="m3ucatIndex">0</entry>
+<entry key="m3usSortAbc"/>
+<entry key="m3ucats"/>
+<entry key="m3ucatsArray"/>
+<entry key="m3uparentalArray"/>
+<entry key="m3uprimaryIndex">10</entry>
+<entry key="sAUfun">16</entry>
+<entry key="sHideMenus">toggleAspectRatio,toggleSubtitle,popPrevProg,popPause,popTogglePip,popStopPip,popEpg,popRecords,popMedia</entry>
+<entry key="m3uchanels"/>
+<entry key="m3uaSubs"/>
+<entry key="m3um3uArr">{"active":0,"M3Us":[{"www":"http://tr.at.ua/index/0-12","pref":"","name":"tv"}]}</entry>
+<entry key="m3umedFavorites"/>
+</properties>
