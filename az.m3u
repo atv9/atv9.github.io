@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://aztv.github.io/0/atv.png",AZAD TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://mfe.cliptv.az/dash/ATV_SDthm07005_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://aztv.github.io/0/xtv.png",Xəzər TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://mfe.cliptv.az/dash/Xezer_SDuk.000656_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://aztv.github.io/0/real.png",REAL TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://edge02.smart.az/o2/realtv/q_2/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://aztv.github.io/0/itv.png",Ictimai TV
+http://mfe.cliptv.az/dash/Ictimai_HD111_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://tr.at.ua/0/baku.png",BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://tr.at.ua/0/apa.png",APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://tr.at.ua/0/arb.png",ARB TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://mfe.cliptv.az/dash/ARB_SDwdv010056_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://tr.at.ua/0/arb24.png",ARB 24
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://85.132.81.184:8080/arb/live/index.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://tr.at.ua/0/mtv.png",MTV
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SDyt0160r56_re.ism/playlist.mpd
