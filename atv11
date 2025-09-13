@@ -219,9 +219,9 @@
 			"category": "Утилиты"
 		},
 		{
-			"title": "Internet SpeedTest",
-			"description": "Тест скорости сети",
-			"url": "https://atv9.github.io/box/SpeedTest.apk",
+			"title": "InternetSpeedTest",
+			"description": "InternetSpeedTest for AndroidTV",
+			"url": "https://atv9.github.io/box/InternetSpeedTest.apk",
 			"category": "Утилиты"
 		},
 		{
@@ -238,7 +238,7 @@
 		},
 		{
 			"title": "TV Bro Browser",
-			"description": "TV Bro Browser",
+			"description": "Internet Browser for AndroidTV",
 			"url": "https://atv9.github.io/box/TVBro.apk",
 			"category": "Утилиты"
 		},
@@ -268,7 +268,7 @@
 		},
 		{
 			"title": "FileManger+",
-			"description": "FileManger for Android TV",
+			"description": "FileManger for AndroidTV",
 			"url": "https://atv9.github.io/box/FM+.apk",
 			"category": "Утилиты"
 		},
