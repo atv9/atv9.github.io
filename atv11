@@ -185,7 +185,13 @@
         {
 			"title": "MX Player Pro",
 			"description": "MX Player Pro",
-			"url": "https://www.dropbox.com/scl/fi/z89pb10jal2r2s0ftxs1h/MXPlayerPro.apk?rlkey=o1rly2401y2lkv98xxjjxtat8&dl=1",
+			"url": "https://github.com/atv9/atv/raw/refs/heads/main/mxpro.apk",
+			"category": "Основные"
+		},
+  		{
+			"title": "Vimu Player",
+			"description": "Vimu Player",
+			"url": "https://github.com/atv9/atv/raw/refs/heads/main/vimu.apk",
 			"category": "Основные"
 		},
      	{
@@ -221,7 +227,7 @@
 		{
 			"title": "InternetSpeedTest",
 			"description": "InternetSpeedTest for AndroidTV",
-			"url": "https://atv9.github.io/box/InternetSpeedTest.apk",
+			"url": "https://github.com/atv9/atv/raw/refs/heads/main/analiti.apk",
 			"category": "Утилиты"
 		},
 		{
