@@ -93,7 +93,7 @@
                         } else{
                             $('.no-network').removeClass('hide')
 
-                            $('.no-network__file').text(window.location.href + '/' + src)
+                            $('.no-network__file').text(window.location.href + '/#/' + src)
                         }
                     }
 
@@ -142,9 +142,9 @@
                 },
                 function () {
                     putScript(
-                        urlJoin(lampa_url, 'lampa-main/app.min.js?v=' + cache_version),
+                        urlJoin(lampa_url, 'lampa-main/#/app.min.js?v=' + cache_version),
                         function () {
-                            var css = urlJoin(lampa_url, 'lampa-main/css/app.css?v=' + cache_version)
+                            var css = urlJoin(lampa_url, 'lampa-main/#/css/app.css?v=' + cache_version)
 
                             $('head').append('<link rel="stylesheet" href="' + css + '">')
 
