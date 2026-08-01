@@ -4002,6 +4002,7 @@ body.platform--netcast .card__title {
 }
 .full-start__rate {
    background-color: #0d253f;
+   border: 1px solid #555;
   -webkit-border-radius: 1.0em;
      -moz-border-radius: 1.0em;
           border-radius: 1.0em;
@@ -4017,13 +4018,12 @@ body.platform--netcast .card__title {
           align-items: center;
   font-size: 1.5em;
   margin-right: 3em;
-  font-weight: 900;
+  font-weight: 600;
   padding: -0.9em -0.9em -0.9em -0.9em;
-  border: 1px solid #363;
-  color: #90CEA1;
+  color: #fff;
 }
 .full-start__rate > div:first-child {
-  width: 1.8em;
+  width: auto;
   height: 1.5em;
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
@@ -4048,53 +4048,8 @@ body.platform--netcast .card__title {
       -ms-flex-pack: center;
           justify-content: center;
 }
-.full-start__rate4 {
-   background-color: #f5c518;
-  -webkit-border-radius: 0.3em;
-     -moz-border-radius: 0.3em;
-          border-radius: 0.3em;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-     -moz-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  color: #000;
-  border: 1px solid #555;
-  font-size: 1.5em;
-  margin-right: 5em;
-  font-weight: 900;
-}
-.full-start__rate4 > div:first-child {
-  width: 1.8em;
-  height: 1.5em;
-  -webkit-flex-shrink: 0;
-      -ms-flex-negative: 0;
-          flex-shrink: 0;
-   background-color: #f5c518;
-  -webkit-border-radius: 0.3em;
-     -moz-border-radius: 0.3em;
-          border-radius: 0.3em;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-     -moz-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-     -moz-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
+
+
 
 .full-start__rate1 {
   width: auto;
