@@ -9,13 +9,13 @@
 
     <meta property="og:title" content="Lampa - Каталог фильмов и сериалов">
     <meta property="og:description" content="Приложение для просмотра каталога фильмов и сериалов на телевизорах, приставках и смартфонах.">
-    <meta property="og:image:type" content="#/image/png">
-    <meta property="og:image" content="#/og.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image" content="og.png">
 
     <link rel="apple-touch-icon" sizes="180x180" href="#/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="#/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="#/icons/favicon-16x16.png">
-    <link rel="manifest" href="#/icons/site.webmanifest" crossorigin="use-credentials">
+    <link rel="manifest" href="icons/site.webmanifest" crossorigin="use-credentials">
     <link rel="mask-icon" href="#/icons/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="#/icons/favicon.ico">
     <meta name="msapplication-TileColor" content="#1d1f20">
@@ -109,7 +109,7 @@
         }
 
         function loadCurrentLampa() {
-            putScript('#/app.min.js?v=' + cache_version, function () {})
+            putScript('app.min.js?v=' + cache_version, function () {})
         }
 
         function loadLocalLampa(){
