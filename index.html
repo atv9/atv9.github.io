@@ -109,7 +109,7 @@
         }
 
         function loadCurrentLampa() {
-            putScript('app.min.js?v=' + cache_version, function () {})
+            putScript('#/app.min.js?v=' + cache_version, function () {})
         }
 
         function loadLocalLampa(){
@@ -128,7 +128,7 @@
 
         if (lampa_url !== '') {
             putScript(
-                urlJoin(lampa_url, 'lampainit.js?v=' + cache_version),
+                urlJoin(lampa_url, '#/lampainit.js?v=' + cache_version),
                 false,
                 function(){}
             )
@@ -136,20 +136,20 @@
             putScript(
                 urlJoin(lampa_url, 'app.min.js?v=' + cache_version),
                 function () {
-                    var css = urlJoin(lampa_url, 'css/app.css?v=' + cache_version)
+                    var css = urlJoin(lampa_url, '#/css/app.css?v=' + cache_version)
 
                     $('head').append('<link rel="stylesheet" href="' + css + '">')
                 },
                 function () {
                     putScript(
-                        urlJoin(lampa_url, 'lampa-main/app.min.js?v=' + cache_version),
+                        urlJoin(lampa_url, '#/lampa-main/app.min.js?v=' + cache_version),
                         function () {
-                            var css = urlJoin(lampa_url, 'lampa-main/css/app.css?v=' + cache_version)
+                            var css = urlJoin(lampa_url, '#/lampa-main/css/app.css?v=' + cache_version)
 
                             $('head').append('<link rel="stylesheet" href="' + css + '">')
 
                             putScript(
-                                urlJoin(lampa_url, 'lampainit.js?v=' + cache_version),
+                                urlJoin(lampa_url, '#/lampainit.js?v=' + cache_version),
                                 false,
                                 function(){}
                             )
