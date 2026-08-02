@@ -4001,7 +4001,7 @@ body.platform--netcast .card__title {
   margin-left: 3em;
 }
 .full-start__rate {
-   background-color: #0d253f;
+   background: rgba(0, 0, 0, 0.8);
    border: 1px solid #555;
   -webkit-border-radius: 1.0em;
      -moz-border-radius: 1.0em;
@@ -4019,7 +4019,8 @@ body.platform--netcast .card__title {
   font-size: 1.5em;
   margin-right: 3em;
   font-weight: 600;
-  padding: -0.9em -0.9em -0.9em -0.9em;
+  padding: -0.8em -0.8em -0.8em -0.8em;
+  padding: 0.5em;
   color: #fff;
 }
 .full-start__rate > div:first-child {
@@ -4028,7 +4029,7 @@ body.platform--netcast .card__title {
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
-   background-color: #000;
+   background-color: rgba(255, 255, 255, 0.0);
   -webkit-border-radius: 1.0em;
      -moz-border-radius: 1.0em;
           border-radius: 1.0em;
