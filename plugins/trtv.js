@@ -4,7 +4,7 @@
     var plugin_name = '🇹🇷Турецкие сериалы';
 
     function init() {
-        Lampa.Noty.show('Плагин "' + plugin_name + ' загружен');
+//        Lampa.Noty.show('Плагин "' + plugin_name + ' загружен');
 
         var defaultState = {
             type: 'tv',
