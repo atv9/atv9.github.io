@@ -3636,7 +3636,7 @@ body.platform--netcast .card__title {
       -ms-flex-align: center;
           align-items: center;
 
-  font-size: 1.15em;
+  font-size: 1.2em;
   padding: 0 0.8em;
   margin-left: 0em;
   margin-right: 0em;
@@ -4019,7 +4019,7 @@ body.platform--netcast .card__title {
   font-size: 1.2em;
   margin-right: 3em;
   font-weight: 600;
-  padding: 0 0.5em;
+  padding: 0 0.2em;
   color: #fff;
 }
 .full-start__rate > div:first-child {
