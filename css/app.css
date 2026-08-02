@@ -4017,9 +4017,9 @@ body.platform--netcast .card__title {
       -ms-flex-align: center;
           align-items: center;
   font-size: 1.2em;
-  margin-right: 3em;
+  margin-right: 2em;
   font-weight: 600;
-  padding: 0 0.7em;
+  padding: 0 0.8em;
   color: #fff;
 }
 .full-start__rate > div:first-child {
