@@ -4016,10 +4016,10 @@ body.platform--netcast .card__title {
      -moz-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  font-size: 1.5em;
+  font-size: 1.2em;
   margin-right: 3em;
   font-weight: 600;
-  padding: 0 0.8em;
+  padding: 0 0.5em;
   color: #fff;
 }
 .full-start__rate > div:first-child {
