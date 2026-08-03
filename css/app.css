@@ -4109,7 +4109,7 @@ body.platform--netcast .card__title {
           justify-content: center;
   color: #000;
   font-size: 1.2em;
-  padding: 0 0.8em;
+  padding: 0 0.7em;
   font-weight: 600;
 }
 
@@ -4140,14 +4140,14 @@ body.platform--netcast .card__title {
           justify-content: center;
   color: #fff;
   font-size: 1.2em;
-  padding: 0 0.8em;
+  padding: 0 0.7em;
   font-weight: 600;
 }
 
 
 .full-start__rate > div:last-child {
   font-size: 1.0em;
-  padding: 0.2em;
+  padding: 0.1em;
 }
 .full-start__icons {
   margin-left: auto;
