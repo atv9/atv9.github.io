@@ -4053,7 +4053,7 @@ body.platform--netcast .card__title {
 
 .full-start__rate1 {
   width: auto;
-  height: 1.5em;
+  height: 2em;
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
@@ -4078,15 +4078,13 @@ body.platform--netcast .card__title {
           justify-content: center;
   color: #90CEA1;
   font-size: 1.2em;
-  padding: 0 0.8em;
-  margin-left: 0em;
-  margin-right: 0em;
+  padding: 0 0.5em;
   font-weight: 600;
 }
 
 .full-start__rate2 {
   width: auto;
-  height: 1.5em;
+  height: 2em;
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
@@ -4111,15 +4109,13 @@ body.platform--netcast .card__title {
           justify-content: center;
   color: #000;
   font-size: 1.2em;
-  padding: 0 0.8em;
-  margin-left: 0em;
-  margin-right: 0em;
+  padding: 0 0.5em;
   font-weight: 600;
 }
 
 .full-start__rate3 {
   width: auto;
-  height: 1.5em;
+  height: 2em;
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
@@ -4144,9 +4140,7 @@ body.platform--netcast .card__title {
           justify-content: center;
   color: #fff;
   font-size: 1.2em;
-  padding: 0 0.8em;
-  margin-left: 0em;
-  margin-right: 0em;
+  padding: 0 0.5em;
   font-weight: 600;
 }
 
