@@ -4140,7 +4140,7 @@ body.platform--netcast .card__title {
           justify-content: center;
   color: #fff;
   font-size: 1.2em;
-  padding: 0.5em;
+  padding: 0.5em 0;
   font-weight: 600;
 }
 
