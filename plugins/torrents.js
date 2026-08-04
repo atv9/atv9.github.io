@@ -40,8 +40,8 @@
                 jackett_url: Lampa.Storage.field('jackett_url'), 
                 jackett_key: Lampa.Storage.field('jackett_key'), 
                 jackett_interview: Lampa.Storage.field('jackett_interview'),
-                jackett_url_pva: Lampa.Storage.get('jackett_url_pva', ['jacred.xyz', 'jacred.ru', 'jr.maxvol.pro', 'trs.my.to:9118', 'jacred.my.to', 'jacred.freebie.tom.ru', 'https://lampa.app', 'https://api.prisma.ws', 'https://jacred.viewbox.dev', 'freebie.tom.ru:9117', '87.120.84.218:9117', 'https://11.307407.xyz'].join(';')),
-                jackett_key_pva: Lampa.Storage.get('jackett_key_pva', ['1', '1', '1', '1', '1', '1', '1', 'h45Hty78qXXdmBlOuy43', 'viewbox', 'freebie', '333', ''].join(';')),
+                jackett_url_pva: Lampa.Storage.get('jackett_url_pva', ['jacred.xyz', 'jac.red', 'jr.maxvol.pro', 'trs.my.to:9118', 'jacred.my.to', 'jacred.freebie.tom.ru', 'https://lampa.app', 'https://api.prisma.ws', 'https://jacred.viewbox.dev', 'freebie.tom.ru:9117', 'http://87.120.84.218:9117', 'https://11.307407.xyz'].join(';')),
+                jackett_key_pva: Lampa.Storage.get('jackett_key_pva', ['1', '1', '1', '1', '1', '1', '1', 'h45Hty78qXXdmBlOuy43', 'viewbox', 'freebie', '333', '1'].join(';')),
                 items: []
               };
               function cleanTitle(title) {                
