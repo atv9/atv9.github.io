@@ -1,13 +1,13 @@
 /* Start spoofViewport.js */
 // Enables 4K resolution tricking youtube into thinking that we are on a 4K TV
 (function () {
-  if (window.screen.width >= 3840 || window.screen.height >= 2160) return;
+  if (window.screen.width >= 1920 || window.screen.height >= 1080) return;
 
   var existing = document.querySelector('meta[name="viewport"]');
   if (existing) {
     existing.setAttribute(
       "content",
-      "width=1920, height=1080, initial-scale=2.0"
+      "width=3840, height=2160, initial-scale=1.0"
     );
   } else {
     var meta = document.createElement("meta");
