@@ -38,7 +38,7 @@
 
 
 /* Кнопка YouTube */
-			var TubeSVG = '<svg><use xlink:href="href="https://atv9.github.io/img/icons/other/yt.svg"></use></svg>'
+			var TubeSVG = '<img src="href="https://atv9.github.io/img//youtube.png">'
 			var tubemenu = $('<li id="YouTubeButton"  class="menu__item selector hide"><div class="menu__ico">' + TubeSVG + '</div><div class="menu__text" >YouTube</div></li>');
 			$('.menu .menu__list').eq(0).append(tubemenu)
 			if(Lampa.Storage.field('YouTube') == true) {
@@ -116,7 +116,7 @@
 				default: true
 			}
 		});
-			var HDRezkaSVG = '<svg src="href="https://atv9.github.io/img/icons/other/tr.svg">'
+			var HDRezkaSVG = '<img src="href="https://atv9.github.io/img//hdrezka.png">'
 			var hdrezkamenu = $('<li class="menu__item selector"><div class="menu__ico">' + HDRezkaSVG + '</div><div class="menu__text" >HDRezka</div></li>');
 			$('.menu .menu__list').eq(0).append(hdrezkamenu)
 			hdrezkamenu.on('hover:enter', function() {
