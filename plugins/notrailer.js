@@ -18,17 +18,6 @@
 
 (function () {
     'use strict';	
-/* Кнопка YouTube */
-/*		Lampa.SettingsApi.addParam({
-			component: 'Multi_Menu_Component',
-			param: {
-				name: 'YouTube',
-				type: 'trigger',
-				//доступно select,input,trigger,title,static
-				default: true
-			}
-		});
-*/
 
 /* Кнопка YouTube */
 
