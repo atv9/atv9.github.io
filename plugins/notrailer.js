@@ -118,7 +118,7 @@
 		});
 			var HDRezkaSVG = '<img src="href="https://atv9.github.io/img/icons/other/tr.svg">'
 			var hdrezkamenu = $('<li class="menu__item selector"><div class="menu__ico">' + HDRezkaSVG + '</div><div class="menu__text" >HDRezka</div></li>');
-			$('.menu .menu__list').append(hdrezkamenu)
+			$('.menu .menu__list').eq(0).append(rezkamenu)
 			hdrezkamenu.on('hover:enter', function() {
 			window.location.href = 'https://rezka.ag/country/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F/?filter=last&genre=2'
 			})
