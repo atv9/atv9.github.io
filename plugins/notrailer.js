@@ -115,7 +115,7 @@
 				default: true
 			}
 		});
-			var hdrezkamenu = $('<li id="HDRezkaButton"  class="menu__item selector hide"><div class="menu__ico"><svg><use xlink:href="https://atv9.github.io/img/icons/other/yt.svg"></use></svg></div><div class="menu__text" >HDRezka</div></li>');
+			var hdrezkamenu = $('<li id="HDRezkaButton"  class="menu__item selector hide"><div class="menu__ico"><svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg></div><div class="menu__text" >HDRezka</div></li>');
 			$('.menu .menu__list').eq(0).append(hdrezkamenu)
 			if(Lampa.Storage.field('HDRezka') == true) {
 				$('#HDRezkaButton').removeClass('hide');
