@@ -110,18 +110,17 @@
 		Lampa.SettingsApi.addParam({
 			component: 'Multi_Menu_Component',
 			param: {
-				name: 'Rezka',
+				name: 'HDRezka',
 				type: 'trigger',
 				default: true
 			}
 		});
-			var RezkaSVG = '<svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg>'
-			var rezkamenu = $('<li id="RezkaButton"  class="menu__item selector hide"><div class="menu__ico"><svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg></div><div class="menu__text" >Rezka</div></li>');
-			$('.menu .menu__list').eq(0).append(rezkamenu)
-			if(Lampa.Storage.field('Rezka') == true) {
-				$('#RezkaButton').removeClass('hide');
+			var hdrezkamenu = $('<li id="HDRezkaButton"  class="menu__item selector hide"><div class="menu__ico"><svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg></div><div class="menu__text" >HDRezka</div></li>');
+			$('.menu .menu__list').eq(0).append(hdrezkamenu)
+			if(Lampa.Storage.field('HDRezka') == true) {
+				$('#HDRezkaButton').removeClass('hide');
 			}
-			rezkamenu.on('hover:enter', function() {
+			hdrezkamenu.on('hover:enter', function() {
 					window.location.href = 'https://rezka.ag/country/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F/?filter=last&genre=2'
 			})
  })();
