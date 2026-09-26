@@ -84,7 +84,7 @@
 			}
 
 			rezkamenu.on('hover:enter', function() {
-					window.location.href = 'https://rezka.ag'
+					window.location.href = 'https://rezka.ag/country/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F/?filter=last&genre=2'
 			})
 /* End Кнопка Rezka */
 
