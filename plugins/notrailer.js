@@ -107,6 +107,7 @@
 /* Кнопка HDRezka */
 (function () {
     'use strict';
+
 		Lampa.SettingsApi.addParam({
 			component: 'Multi_Menu_Component',
 			param: {
@@ -115,10 +116,11 @@
 				default: true
 			}
 		});
-			var hdrezkamenu = $('<li id="HDRezkaButton"  class="menu__item selector hide"><div class="menu__ico"><svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg></div><div class="menu__text" >HDRezka</div></li>');
+
+			var hdrezkamenu = $('<li id="HDRezkaButton"  class="menu__item selector"><div class="menu__ico"><svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg></div><div class="menu__text" >Турецкие</div></li>');
 			$('.menu .menu__list').eq(0).append(hdrezkamenu)
 			if(Lampa.Storage.field('HDRezka') == true) {
-				$('#HDRezkaButton').removeClass('hide');
+	//			$('#HDRezkaButton').removeClass('hide');
 			}
 			hdrezkamenu.on('hover:enter', function() {
 					window.location.href = 'https://rezka.ag/country/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F/?filter=last&genre=2'
