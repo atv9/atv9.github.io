@@ -35,7 +35,7 @@
 				default: true
 			}
 		});
-			var YouTubeSVG = '<svg width="256px" height="256px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" fill="#ffffff" stroke="#ffffff" stroke-width="0.00048000000000000007"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>youtube</title> <g id="Layer_2" data-name="Layer 2">  <g id="icons_Q2" data-name="icons Q2"> <path d="M45.1,12.8a5.5,5.5,0,0,0-3.9-3.9C37.8,8,24,8,24,8S10.2,8,6.8,8.9a5.5,5.5,0,0,0-3.9,3.9C2,16.2,2,23.4,2,23.4s0,7.2.9,10.6a5.5,5.5,0,0,0,3.9,3.9c3.4.9,17.2.9,17.2.9s13.8,0,17.2-.9A5.5,5.5,0,0,0,45.1,34c.9-3.4.9-10.6.9-10.6S46,16.2,45.1,12.8ZM19.6,30V16.8L31,23.4Z" fill="currentColor"></path> </g> </g> </g></svg>'
+			var YouTubeSVG = '<svg xmlns="http://www.w3.org/2000/svg" fill="#ffffff" width="256px" height="256px" viewBox="0 0 256 256"><path class="st0" d="M250.8,66.3c-3-11.1-11.6-19.7-22.7-22.7C208.3,38.4,128,38.4,128,38.4s-80.3,0-100.1,5.2 c-11.1,3-19.7,11.6-22.7,22.7C0,86.1,0,128,0,128s0,41.9,5.2,61.7c3,11.1,11.6,19.7,22.7,22.7c19.8,5.2,100.1,5.2,100.1,5.2 s80.3,0,100.1-5.2c11.1-3,19.7-11.6,22.7-22.7C256,169.9,256,128,256,128S256,86.1,250.8,66.3z M102,166.4V89.6l66.3,38.4 L102,166.4z"/></svg>'
 			var YouTubemenu = $('<li class="menu__item selector"><div class="menu__ico">' + YouTubeSVG + '</div><div class="menu__text" >YouTube</div></li>');
 			$('.menu .menu__list').eq(0).append(YouTubemenu)
 			YouTubemenu.on('hover:enter', function() {
