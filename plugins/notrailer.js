@@ -57,7 +57,7 @@
 				default: true
 			}
 		});
-			var HDRezkaSVG = '<img src="href="https://atv9.github.io/img//hdrezka.png">'
+			var HDRezkaSVG = '<svg xmlns="http://www.w3.org/2000/svg" fill="#ffffff" width="512px" height="512px" viewBox="0 0 512 512"><path class="st0" d="M482.9,67.2H29.1C13,67.2,0,80.3,0,96.3v319.4c0,16,13,29.1,29.1,29.1h453.8c16,0,29.1-13,29.1-29.1V96.3 C512,80.3,499,67.2,482.9,67.2z M477.1,184.1h-91.9v-82h91.9V184.1z M126.8,292.4H34.9v-73.3h91.9V292.4z M161.7,102.1h188.5v307.8 H161.7V102.1z M385.2,219.1h91.9v73.3h-91.9V219.1z M126.8,102.1v82H34.9v-82H126.8z M34.9,327.3h91.9v82.6H34.9V327.3z M385.2,409.9v-82.6h91.9v82.6H385.2z" fill="currentColor"/></svg>'
 			var hdrezkamenu = $('<li class="menu__item selector"><div class="menu__ico">' + HDRezkaSVG + '</div><div class="menu__text" >HDRezka</div></li>');
 			$('.menu .menu__list').eq(0).append(hdrezkamenu)
 			hdrezkamenu.on('hover:enter', function() {
