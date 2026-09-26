@@ -116,7 +116,7 @@
 				default: true
 			}
 		});
-			var hdrezkamenu = $('<li class="menu__item selector"><div class="menu__ico"><svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg></div><div class="menu__text" >Турецкие</div></li>');
+			var hdrezkamenu = $('<li class="menu__item selector"><div class="menu__ico"><img src="https://atv9.github.io/img/icons/other/tr.svg"></div><div class="menu__text" >Турецкие</div></li>');
 			$('.menu .menu__list').append(hdrezkamenu)
 			hdrezkamenu.on('hover:enter', function() {
 			window.location.href = 'https://rezka.ag/country/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F/?filter=last&genre=2'
