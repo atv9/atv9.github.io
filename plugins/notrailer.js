@@ -26,21 +26,6 @@
 				type: 'trigger',
 				//доступно select,input,trigger,title,static
 				default: true
-			},
-			field: {
-				name: 'Раздел YouTube',
-				//Название подпункта меню
-				description: 'Добавляет YouTube в главном меню' //Комментарий к подпункту
-			},
-			onChange: function(value) {
-				//Действия при изменении подпункта
-				if(Lampa.Storage.field('YouTube') == false) {
-					$('#YouTubeButton').addClass('hide');
-				}
-				if(Lampa.Storage.field('YouTube') == true) {
-					$('#YouTubeButton').removeClass('hide');
-				}
-				//Lampa.Settings.update();
 			}
 		});
 
