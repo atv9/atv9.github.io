@@ -38,7 +38,7 @@
 
 
 /* Кнопка YouTube */
-			var TubeSVG = '<svg><use xlink:href="./img/icons/other/yt.svg"></use></svg>'
+			var TubeSVG = '<svg><use xlink:href="href="https://atv9.github.io/img/icons/other/yt.svg"></use></svg>'
 			var tubemenu = $('<li id="YouTubeButton"  class="menu__item selector hide"><div class="menu__ico">' + TubeSVG + '</div><div class="menu__text" >YouTube</div></li>');
 			$('.menu .menu__list').eq(0).append(tubemenu)
 			if(Lampa.Storage.field('YouTube') == true) {
@@ -87,7 +87,7 @@
 		});
 
 /* Кнопка Rezka */
-			var RezkaSVG = '<svg><use xlink:href="./img/icons/other/tr.svg"></use></svg>'
+			var RezkaSVG = '<svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg>'
 			var rezkamenu = $('<li id="RezkaButton"  class="menu__item selector hide"><div class="menu__ico">' + RezkaSVG + '</div><div class="menu__text" >Rezka</div></li>');
 			$('.menu .menu__list').eq(0).append(rezkamenu)
 			if(Lampa.Storage.field('Rezka') == true) {
@@ -99,4 +99,31 @@
 			})
 /* End Кнопка Rezka */
  })();
+
+
+
+
+
+/* Кнопка HDRezka */
+(function () {
+    'use strict';
+		Lampa.SettingsApi.addParam({
+			component: 'Multi_Menu_Component',
+			param: {
+				name: 'Rezka',
+				type: 'trigger',
+				default: true
+			}
+		});
+			var RezkaSVG = '<svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg>'
+			var rezkamenu = $('<li id="RezkaButton"  class="menu__item selector hide"><div class="menu__ico"><svg><use xlink:href="https://atv9.github.io/img/icons/other/tr.svg"></use></svg></div><div class="menu__text" >Rezka</div></li>');
+			$('.menu .menu__list').eq(0).append(rezkamenu)
+			if(Lampa.Storage.field('Rezka') == true) {
+				$('#RezkaButton').removeClass('hide');
+			}
+			rezkamenu.on('hover:enter', function() {
+					window.location.href = 'https://rezka.ag/country/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F/?filter=last&genre=2'
+			})
+ })();
+/* End Кнопка HDRezka */
 
