@@ -59,7 +59,24 @@
 			}
 
 			rezkamenu.on('hover:enter', function() {
-window.location.href = 'https://rezka.ag/'
+					if (Lampa.Platform.is('webos')) {
+						webOS.service.request("luna://com.webos.applicationManager", {
+						   method: "launch",
+						   parameters: { "id": "youtube.leanback.v4"},
+						   onSuccess: function (inResponse) {
+							   console.log("The app is launched");
+						   },
+						   onFailure: function (inError) {
+							   console.log("Failed to launch the app");
+							   console.log("[" + inError.errorCode + "]: " + inError.errorText);
+							   return;
+						   }
+					   });
+					}
+					if (Lampa.Platform.is('android')) {
+						Lampa.Android.openYoutube('TeUQrJrfrkk');
+					} 
+					else window.location.href = 'https://rezka.ag/films'
 			})
 /* End Кнопка rezka */
 
