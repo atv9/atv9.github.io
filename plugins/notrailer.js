@@ -116,7 +116,7 @@
 				default: true
 			}
 		});
-			var HDRezkaSVG = '<img src="href="https://atv9.github.io/img/icons/other/tr.svg">'
+			var HDRezkaSVG = '<svg src="href="https://atv9.github.io/img/icons/other/tr.svg">'
 			var hdrezkamenu = $('<li class="menu__item selector"><div class="menu__ico">' + HDRezkaSVG + '</div><div class="menu__text" >HDRezka</div></li>');
 			$('.menu .menu__list').eq(0).append(rezkamenu)
 			hdrezkamenu.on('hover:enter', function() {
