@@ -80,7 +80,7 @@
 			component: 'Multi_Menu_Component',
 			param: {
 				name: 'Rezka',
-				type: 'title',
+				type: 'trigger',
 				//доступно select,input,trigger,title,static
 				default: true
 			}
