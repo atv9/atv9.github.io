@@ -19,7 +19,7 @@
 (function () {
     'use strict';	
 /* Кнопка YouTube */
-		Lampa.SettingsApi.addParam({
+/*		Lampa.SettingsApi.addParam({
 			component: 'Multi_Menu_Component',
 			param: {
 				name: 'YouTube',
@@ -28,7 +28,7 @@
 				default: true
 			}
 		});
-
+*/
 
 /* Кнопка YouTube */
 
