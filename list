@@ -1,7 +1,7 @@
 {"secuses":true,"results":[
 {"title":"Рекомендуем","results":[
-{"id":214,"cid":1,"name":"Онлайн кино","author":"@t_anton","link":"https://nb557.github.io/plugins/online_mod.js","descr":"Плагин добавляет поиск онлайн кино","install":0,"moderation":1,"image":"https://atv9.github.io/img/online.png","recomend":1},
-{"id":215,"cid":1,"name":"Торренты","author":"@lampa","link":"https://atv9.github.io/apps/tor","descr":"Плагин добавляет поиск торрентов","instruction":"","install":0,"moderation":1,"image":"https://atv9.github.io/img/torrent.png","recomend":1},
+{"id":214,"cid":1,"name":"Онлайн","author":"@t_anton","link":"https://nb557.github.io/plugins/online_mod.js","descr":"Плагин добавляет поиск онлайн кино","image":"https://atv9.github.io/img/online.png","recomend":1},
+{"id":215,"cid":1,"name":"Торренты","author":"@lampa","link":"https://atv9.github.io/apps/tor","descr":"Плагин добавляет поиск торрентов","image":"https://atv9.github.io/img/torrent.png","recomend":1},
 {"id":218,"cid":1,"name":"Торренты","author":"","link":"https://atv9.github.io/tor","descr":" ","instruction":"","install":0,"moderation":1,"image":"https://atv9.github.io/img/torrent.png","recomend":1},
 {"id":219,"cid":1,"name":"Онлайн кинотеатры","author":"@lampa","link":"http://cub.red/plugin/cardify","descr":" ","instruction":"","time":1731337355976,"install":0,"moderation":1,"moderation_reason":"","comment":"","premium":0,"image":"https://atv9.github.io/img/online.png","platform":"","recomend":1,"hpu":"other","subtype":""},
 {"id":220,"cid":1,"name":"IPTV","author":"@lampa","link":"http://cub.red/plugin/iptv","descr":" ","instruction":"","time":1733749975997,"install":0,"moderation":1,"moderation_reason":"","comment":"","premium":0,"image":"https://atv9.github.io/img/torrent.png","platform":"","recomend":1,"hpu":"video","subtype":""},
