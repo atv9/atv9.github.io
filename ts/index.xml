@@ -1,276 +1,177 @@
-{
-	"links": [
-        {
-			"title": "SmartTube",
-			"description": "Youtube for TV (Official Github - Last Stabile Version)",
-			"url": "https://github.com/yuliskov/SmartTube/releases/latest",
-			"category": "Links"
-		},
-		{
-			"title": "AuroraStore",
-			"description": "AuroraStore (Official Gitlab - Last Stabile Version)",
-			"url": "https://gitlab.com/AuroraOSS/AuroraStore/-/releases",
-			"category": "Links"
-		},
-		{
-			"title": "TorrServer",
-			"description": "TorrServerMatrix by YouROK (Official Github - Last Stabile Version)",
-			"url": "https://github.com/YouROK/TorrServer/releases/latest",
-			"category": "Links"
-		},
-		{
-			"title": "LAMPA",
-			"description": "LAMPA App (Official Github - Last Stabile Version)",
-			"url": "https://github.com/lampa-app/LAMPA/releases/latest",
-			"category": "Links"
-		},
-		{
-			"title": "Lampa TV",
-			"description": "Lampa TV by Nemiroff (Official Github - Last Stabile Version)",
-			"url": "https://github.com/Nemiroff/lampa/blob/main/apk/LampaTV_v7.7.9-115.apk",
-			"category": "Links"
-		},
-		{
-			"title": "Файл",
-			"description": "Обход блокировок",
-			"url": "https://atv9.github.io/bin/f.bin",
-			"category": "Links"
-		},
-		{
-			"title": "Файл",
-			"description": "Обход блокировок",
-			"url": "https://atv9.github.io/bin/f.bin",
-			"category": "Links"
-		},
-		{
-			"title": "Файл",
-			"description": "Обход блокировок",
-			"url": "https://atv9.github.io/bin/f.bin",
-			"category": "Links"
-		},
-		{
-			"title": "https://androidtvbox.ru",
-			"description": "Сайт с приложениями",
-			"url": "https://androidtvbox.ru/",
-			"category": "Links"
-		},
-		{
-			"title": "https://android-hit.ru",
-			"description": "Сайт с приложениями",
-			"url": "https://android-hit.ru/",
-			"category": "Links"
-		},
-		{
-			"title": "https://www.apkmirror.com",
-			"description": "Сайт с приложениями",
-			"url": "https://www.apkmirror.com/",
-			"category": "Links"
-		},
-		{
-			"title": "https://apkcombo.com",
-			"description": "Сайт с приложениями",
-			"url": "https://apkcombo.com/ru/",
-			"category": "Links"
-		},
-		{
-			"title": "https://www.tvbox.one",
-			"description": "Сайт с приложениями",
-			"url": "https://www.tvbox.one/",
-			"category": "Links"
-		},
-		{
-			"title": "https://rsload.net",
-			"description": "Сайт с приложениями",
-			"url": "https://rsload.net/mobile/android/",
-			"category": "Links"
-		},
-		{
-			"title": "https://dtv.plus",
-			"description": "Сайт с приложениями",
-			"url": "https://dtv.plus/",
-			"category": "Links"
-		}
-	],
-   	"apps": [
-	    {
-			"title": "SmartTube",
-			"description": "Альтернативный клиент Youtube для ТВ (Стабильная версия)",
-			"url": "https://github.com/yuliskov/SmartTube/releases/download/21.69s/SmartTube_stable_21.69_x86.apk",
-			"category": "Основные"
-		},
-		{
-			"title": "X-plore",
-			"description": "X-plore (MOD без рекламы)",
-			"url": "https://atv9.github.io/box/XPlore.apk",
-			"category": "Основные"
-		},
-    		{
-			"title": "LeanKey",
-			"description": "Русская клавиатура",
-			"url": "https://atv9.github.io/box/LeanKey.apk",
-			"category": "Основные"
-		},
-                {
-			"title": "TiviMate",
-			"description": "TiviMate (Стабильная версия)",
-			"url": "https://atv9.github.io/box/TiviMate.apk",
-			"category": "Основные"
-		},
-		{
-			"title": "Ott-Play",
-			"description": "Ott-Play by Alex (Стабильная версия)",
-			"url": "https://atv9.github.io/box/OttPlay.apk",
-			"category": "Основные"
-		},
-		{
-			"title": "HDVideoBox",
-			"description": "HDVideoBox Кинозал",
-			"url": "https://atv9.github.io/box/HDVideoBox.apk",
-			"category": "Основные"
-		},
-		{
-			"title": "KinoHDPremium",
-			"description": "KinoHDPremium",
-			"url": "https://atv9.github.io/box/KinoHDPremium.apk",
-			"category": "Основные"
-		},
-		{
-			"title": "Lazy Media Deluxe",
-			"description": "Lazy Media Deluxe Кинозал",
-			"url": "https://atv9.github.io/box/LazyMediaDeluxe.apk",
-			"category": "Основные"
-		},
-		{
-			"title": "Torrserve Matrix",
-			"description": "Torrserve Matrix Просмотр видео торрентов",
-			"url": "https://atv9.github.io/box/TorrServe.apk",
-			"category": "Основные"
-		},
-		{
-			"title": "Lampa",
-			"description": "Lampa",
-			"url": "https://atv9.github.io/box/Lampa.apk",
-			"category": "Основные"
-		},
-		{
-			"title": "Lampa TV",
-			"description": "Lampa TV",
-			"url": "https://github.com/Nemiroff/lampa/raw/main/apk/LampaTV_v7.7.9-115.apk",
-			"category": "Основные"
-		},
-  		{
-			"title": "Night Player",
-			"description": "Night Player (Видео плеер c нормализацией звука)",
-			"url": "https://atv9.github.io/box/NightPlayer.apk",
-			"category": "Основные"
-		},
-  		{
-			"title": "TitanPlayer",
-			"description": "Titan Player (Exo Player)",
-			"url": "https://atv9.github.io/box/TitanPlayer.apk",
-			"category": "Основные"
-		},
-    	{
-			"title": "M3U Player",
-			"description": "M3U Player (IPTV Player)",
-			"url": "https://atv9.github.io/box/M3UPlayer.apk",
-			"category": "Основные"
-		},
-        {
-			"title": "MX Player Pro",
-			"description": "MX Player Pro",
-			"url": "https://www.dropbox.com/scl/fi/z89pb10jal2r2s0ftxs1h/MXPlayerPro.apk?rlkey=o1rly2401y2lkv98xxjjxtat8&dl=1",
-			"category": "Основные"
-		},
-     	{
-			"title": "Ram Cleaner",
-			"description": "Очистка памяти (MOD для ТВ)",
-			"url": "https://atv9.github.io/box/RamCleaner.apk",
-			"category": "Утилиты"
-		},
-       	{
-			"title": "ATV Cleaner",
-			"description": "Очистка памяти",
-			"url": "https://atv9.github.io/box/AtvCleaner.apk",
-			"category": "Утилиты"
-		},
-    	{
-			"title": "App Driver",
-			"description": "Меню с приложениями AOSP",
-			"url": "https://atv9.github.io/box/AppDrawer.apk",
-			"category": "Утилиты"
-		},
-        {
-			"title": "Device Info HW+",
-			"description": "Полная информация об устройстве и системе (MOD версия) ",
-			"url": "https://atv9.github.io/box/DeviceInfo.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "Root Explorer",
-			"description": "Root Explorer",
-			"url": "https://atv9.github.io/box/RootExplorer.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "Internet SpeedTest",
-			"description": "Internet SpeedTest",
-			"url": "https://atv9.github.io/box/SpeedTest.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "Power Menu",
-			"description": "Power Menu",
-			"url": "https://atv9.github.io/box/PowerMenu.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "Volume Booster",
-			"description": "Volume Booster",
-			"url": "https://atv9.github.io/box/VolumeBooster.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "TV Bro Browser",
-			"description": "TV Bro Browser",
-			"url": "https://atv9.github.io/box/TVBro.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "MT manager",
-			"description": "MT manager",
-			"url": "https://atv9.github.io/box/MT.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "Lucky Patcher",
-			"description": "Lucky Patcher",
-			"url": "https://atv9.github.io/box/LP.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "Via Browser",
-			"description": "Via Browser",
-			"url": "https://atv9.github.io/box/ViaBrowser.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "Free Physical Keyboard",
-			"description": "Free Physical Keyboard for Android TV x86",
-			"url": "https://atv9.github.io/box/PhysicalKeyboard.apk",
-			"category": "Утилиты"
-		},
-		{
-			"title": "000",
-			"description": "000",
-			"url": "https://atv9.github.io/bin/f.bin",
-			"category": "Другое"
-		},
-		{
-			"title": "🌟 MX Pro",
-			"description": "MX-Player-Pro-v1-78-6 armeabi-v7a",
-			"url": "https://atv9.github.io/bin/MXPro.zip",
-			"category": "Видеоплееры"
-		}
-	]
-}
+#EXTM3U url-tvg="http://epgx.site/epg_lite.xml.gz" tvg-shift=0 m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="muztv-az" tvg-logo="http://tr.at.ua/0/mtv.png",MUZ TV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SDyt0160r56_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="start-az" tvg-logo="http://tr.at.ua/0/start.png",START TV
+#http://65.21.196.155/azerbaijan/start_tv_az/chunks.m3u8
+http://mfe.cliptv.az/dash/Kanal_S_TV_SDyjn070056_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://tr.at.ua/0/tmb.png",TMB
+#https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+http://185.32.44.154/tmb/index.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://tr.at.ua/0/tmbaz.png",TMB AZ
+#http://mfe.cliptv.az/dash/VH1_Classic_SDjhjku88.ism/playlist.mpd
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-azerbaycan.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="azad-tv-az" tvg-logo="http://tr.at.ua/0/atv.png",AZAD TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+#http://185.32.44.154/azadazerbaycan/index.m3u8
+http://mfe.cliptv.az/dash/ATV_SDthm07005_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="xezer" tvg-logo="http://tr.at.ua/0/xtv.png",Xəzər TV
+#http://185.32.44.154/xezertv/index.m3u8
+http://mfe.cliptv.az/dash/Xezer_SDuk.000656_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="real-az" tvg-logo="http://tr.at.ua/0/real.png",REAL TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+#http://95.86.132.46/o2/realtv/playlist.m3u8
+#http://185.32.44.154/realtv/index.m3u8
+http://mfe.cliptv.az/dash/Real_TV_SDdfg010856_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="ictimai-tv" tvg-logo="http://tr.at.ua/0/itv.png",Ictimai TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+#http://95.86.132.46/o1/ictimai/playlist.m3u8
+#http://185.32.44.154/ictimaitv/index.m3u8
+http://mfe.cliptv.az/dash/Ictimai_HD111_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="baku-az" tvg-logo="http://tr.at.ua/0/baku.png",BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="apa-az" tvg-logo="http://tr.at.ua/0/apa.png",APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="arb-az" tvg-logo="http://tr.at.ua/0/arb.png",ARB TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+#http://95.86.132.46/o1/arbtv/playlist.m3u8
+#http://185.32.44.154/arb/index.m3u8
+http://mfe.cliptv.az/dash/ARB_SDwdv010056_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="arb24-hd-az" tvg-logo="http://tr.at.ua/0/arb24.png",ARB 24
+#EXTVLCOPT:http-user-agent=SmartSDK
+#http://95.86.132.46/o7/arb24/playlist.m3u8
+#http://185.32.44.154/arb24/index.m3u8
+http://mfe.cliptv.az/dash/Tlum_HDhgghhg.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="arb-gunes" tvg-logo="http://tr.at.ua/0/arbg.png",ARB Günəş
+#https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes
+http://mfe.cliptv.az/dash/ARB_Gunesh_SDthd013056_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="kepez-az" tvg-logo="http://tr.at.ua/0/arbk.png",ARB Kepez
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="space-tv-az" tvg-logo="http://tr.at.ua/0/stv.png",SPACE TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#http://95.86.132.46/o1/space/playlist.m3u8
+#http://185.32.44.154/spacetv/index.m3u8
+https://95.86.132.46/o1/space/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="space-tv-az" tvg-logo="http://tr.at.ua/0/stv.png",SPACE TV
+http://mfe.cliptv.az/dash/Space_SDrgn040056_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="cbc-az" tvg-logo="http://tr.at.ua/0/cbc.png",CBC AZ
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="cbc-sport" tvg-logo="http://tr.at.ua/0/cbcs.png",CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="astv-az" tvg-logo="http://tr.at.ua/0/ast.png",AS TV
+http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="dunya-az" tvg-logo="http://tr.at.ua/0/dunya.png",DUNYA TV
+#https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya
+#http://185.32.44.154/dunyatv/index.m3u8
+http://mfe.cliptv.az/dash/Dunya_TVqsx956_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="medeniyyet" tvg-logo="http://tr.at.ua/0/maz.png",Mədəniyyət TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+#http://95.86.132.46/o1/medeniyyet/playlist.m3u8
+#https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
+http://185.32.44.154/medeniyyet/index.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="idman" tvg-logo="http://tr.at.ua/0/idaz.png",Idman TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#http://95.86.132.46/o7/idman/playlist.m3u8
+https://edge02.odtv.az/o7/idman/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="aztv" tvg-logo="http://tr.at.ua/0/aztv.png",AzTV
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="qafqaz-az" tvg-logo="http://tr.at.ua/0/qtv.png",QAFQAZ TV
+#https://api1.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8
+https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://tr.at.ua/0/sehtv.png",STV
+#https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV
+http://185.32.44.154/sehiyye/index.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="gun-az" tvg-logo="http://tr.at.ua/0/gtv.png",GUNAZ TV
+#http://65.21.196.155/azerbaijan/gunaz/chunks.m3u8
+http://149.255.154.194/gunaztv/video.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="ant-az" tvg-logo="http://tr.at.ua/0/ant.png",ANT TV
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="eltv-az" tvg-logo="http://tr.at.ua/0/eltv.png",EL TV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="alvin-az" tvg-logo="http://tr.at.ua/0/alv.png",Alvin Channel
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-logo="http://tr.at.ua/0/konul.png",Könül TV1
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="mugan-az" tvg-logo="http://tr.at.ua/0/mugan.png",Mugan TV
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="naxcivan-az" tvg-logo="https://ntv.az/assets/images/logo.png",NAXCIVAN TV
+https://str1.yodacdn.net/ntv/video.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="viphd-az" tvg-logo="http://tr.at.ua/0/vip.png",VIP HD TEST
+https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="turan-az" tvg-logo="http://tr.at.ua/0/ttv.png",TURAN TV
+https://donvolga.com/Turan-TV/video.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="umud-az" tvg-logo="http://tr.at.ua/0/umud.png",UMUD TV
+http://cdn-umudtv.yayin.com.tr/umudtv/smil:umudtv.smil/chunklist_w2093303275_b1600000_slen.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="farrukh-az" tvg-logo="http://tr.at.ua/0/ftv.png",Farrukh TV HD
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="rihat-az" tvg-logo="http://tr.at.ua/0/35.png",Kanal 35
+http://str1.yodacdn.net/kanal35/video.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="rihat-az" tvg-logo="http://tr.at.ua/0/splus.png",Show Plus
+https://rpn3.bozztv.com/ssh101/ssh101/showplus/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="rihat-az" tvg-logo="http://tr.at.ua/0/agro.png",AGRO TV
+https://api1.canlitvplayer.com/str.yodacdn.net/agrotv/mono.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="rihat-az" tvg-logo="http://tr.at.ua/0/mntv.png",Millinet TV
+https://api1.canlitvplayer.com/str.yodacdn.net/obs-test/mono.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="rihat-az" tvg-logo="http://tr.at.ua/0/mcj.png",MCJ TV Shop
+https://www.tvkaista.net/stream-forwarder/get.php?x=MCJTVShop
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="qebele-az" tvg-logo="http://tr.at.ua/0/qeb.png",QEBELE TV
+https://qebele.tv/live/stream/index.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="livetv-az" tvg-logo="http://tr.at.ua/0/live.png",LIVE TV
+http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="rihat-az" tvg-logo="http://tr.at.ua/0/rtv.png",Rihat TV
+https://cdn10-rihattv.yayin.com.tr/rihattv/rihattv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан" tvg-id="vostok-tv" tvg-logo="http://tr.at.ua/0/vtv.png",Восток ТВ
+#https://api1.canlitvplayer.com/str.yodacdn.net/tmb/mono.m3u8
+https://str.yodacdn.net/tmb/index.m3u8?token=98374b5477e695d0892761780af9fbbec6c9d6d5-8bd0183ad3576e88b463477153d7f235-1705951318-1705940518
+
+
+
+
+#EXTINF:-1 group-title="🇦🇿 Азербайджан",ARB24 TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o7/arb24/playlist.m3u8
