@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.site" tvg-shift=0 m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTM3U url-tvg="https://doas.top/epg.xml.gz" tvg-shift=0 m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
 #EXTINF:-1 tvg-id="muztv-az" tvg-logo="https://yoda.az/logos/mtv.png",MUZ TV
 #EXTGRP:🇦🇿 Азербайджан
