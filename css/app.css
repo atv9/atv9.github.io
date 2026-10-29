@@ -13383,18 +13383,6 @@ body.mouse--controll .pincode__container {
     margin-bottom: 0;
   position: absolute;
   top: 0;
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-     -moz-transform: translateX(-50%);
-      -ms-transform: translateX(-50%);
-       -o-transform: translateX(-50%);
-          transform: translateX(-50%);
-  -webkit-border-top-left-radius: 0;
-     -moz-border-radius-topleft: 0;
-          border-top-left-radius: 0;
-  -webkit-border-top-right-radius: 0;
-     -moz-border-radius-topright: 0;
-          border-top-right-radius: 0;
   margin: 0;
 }
 .extensions__item--art, .extensions__item--theme, .extensions__item--screensaver {
