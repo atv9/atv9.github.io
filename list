@@ -1,6 +1,5 @@
 {"secuses":true,"results":[
 {"title":"Рекомендуем","results":[
-{"id":216,"cid":1,"name":"BWA","author":"@lampa","link":"https://app.bwa.ad/online.js","descr":"Просмотр фильмов и сериалов онлайн.","instruction":"","image":"https://cub.red/img/extensions/photos/bwa.jpg","platform":"android","recomend":1,"hpu":"video","subtype":"","available_lampa":1,"available_cube":1,"icon":"http://cub.red/img/plugins/cardify.jpg","color":"#7cb342","price":0,"region":"","lang"","instruction":""},
 {"id":214,"cid":1,"name":"Онлайн","author":"@t_anton","link":"https://nb557.github.io/plugins/online_mod.js","descr":"Плагин добавляет поиск онлайн кино","instruction":" ","image":"https://atv9.github.io/img/online.png","recomend":1},
 {"id":215,"cid":1,"name":"Торренты","author":"@lampa","link":"https://atv9.github.io/apps/tor","descr":"Плагин добавляет поиск торрентов","instruction":" ","image":"https://atv9.github.io/img/torrent.png","recomend":1},
 {"id":224,"cid":1,"name":"IPTV","author":"@lampa","link":"https://atv9.github.io/apps/iptv","descr":"Плагин добавляет просмотр онлайн тв","instruction":" ","image":"https://atv9.github.io/img/tv.png","recomend":1},
