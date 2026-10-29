@@ -13381,13 +13381,13 @@ body.mouse--controll .pincode__container {
   width: 32.7%;
   min-width: 20em;
 }
-.extensions__item--theme, .extensions__item--screensaver {
+.extensions__item--art, .extensions__item--theme, .extensions__item--screensaver {
   padding: 0;
 }
-.extensions__item--theme .extensions__item-name, .extensions__item--screensaver .extensions__item-name {
+.extensions__item--art, .extensions__item--theme .extensions__item-name, .extensions__item--screensaver .extensions__item-name {
   margin-bottom: 0;
 }
-.extensions__item--theme .extensions__item-premium, .extensions__item--screensaver .extensions__item-premium {
+.extensions__item--art, .extensions__item--theme .extensions__item-premium, .extensions__item--screensaver .extensions__item-premium {
   position: absolute;
   top: 0;
   left: 50%;
