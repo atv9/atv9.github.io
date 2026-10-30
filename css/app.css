@@ -13267,15 +13267,10 @@ body.mouse--controll .pincode__container {
   color: #DD7337;
 }
 .extensions__item-included {
-  width: 1.2em;
-  height: 1.2em;
-  background-color: rgba(0, 0, 0, 0.18);
-  -webkit-border-radius: 100%;
-     -moz-border-radius: 100%;
-          border-radius: 100%;
-  text-align: center;
-  padding-top: 0.24em;
-  margin-right: 0.5em;
+  width: 0em;
+  height: 0em;
+  padding-top: 0em;
+  margin-right: 0em;
 }
 .extensions__item-included:after {
   content: "✔";
@@ -13442,15 +13437,14 @@ body.mouse--controll .pincode__container {
 }
 .extensions__cub {
   position: absolute;
-  top: 1em;
-  right: 1em;
-  background-color: rgba(0, 0, 0, 0.18);
-  -webkit-border-radius: 0.1em;
-  -moz-border-radius: 0.1em;
-  border-radius: 0.3em;
-  padding: 0.3em 0.4em 0.4em;
-  font-size: 0.78em;
+  top: 0em;
+  right: 0em;
+  padding: 0em;
+  font-size: 0em;
 }
+
+
+
 
 .extensions-info {
   line-height: 1.8;
