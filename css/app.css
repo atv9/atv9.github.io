@@ -13378,8 +13378,8 @@ body.mouse--controll .pincode__container {
 }
 .extensions__item--recomend {
   padding: 0;
-  width: 22.7%;
-  min-width: 20em;
+  width: 20em;
+  min-height: 10em;
   margin: 0;
 }
 .extensions__item--art, .extensions__item--theme, .extensions__item--screensaver {
