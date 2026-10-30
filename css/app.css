@@ -13278,17 +13278,21 @@ body.mouse--controll .pincode__container {
   margin-right: 0.5em;
 }
 .extensions__item-included:after {
-  content: "";
-  display: inline-block;
-  width: 0.2em;
-  height: 0.4em;
-  border-right: 0.15em solid #fff;
-  border-bottom: 0.15em solid #fff;
-  -webkit-transform: rotate(45deg);
-     -moz-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
-       -o-transform: rotate(45deg);
-          transform: rotate(45deg);
+  content: "✔";
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  -webkit-border-radius: 100%;
+     -moz-border-radius: 100%;
+          border-radius: 100%;
+  width: 2em;
+  height: 2em;
+  background-color: #fff;
+  display: block;
+  z-index: 1;
+  color: #000;
+  text-align: center;
+  line-height: 2em;
 }
 .extensions__item-premium {
   margin-left: 1em;
@@ -13382,13 +13386,13 @@ body.mouse--controll .pincode__container {
   min-height: 10em;
   margin: 0;
 }
-.extensions__item--art, .extensions__item--theme, .extensions__item--screensaver {
+.extensions__item--theme, .extensions__item--screensaver {
   padding: 0;
 }
-.extensions__item--art, .extensions__item--theme .extensions__item-name, .extensions__item--screensaver .extensions__item-name {
+.extensions__item--theme .extensions__item-name, .extensions__item--screensaver .extensions__item-name {
   margin-bottom: 0;
 }
-.extensions__item--art, .extensions__item--theme .extensions__item-premium, .extensions__item--screensaver .extensions__item-premium {
+.extensions__item--theme .extensions__item-premium, .extensions__item--screensaver .extensions__item-premium {
   position: absolute;
   top: 0;
   left: 50%;
@@ -13406,8 +13410,8 @@ body.mouse--controll .pincode__container {
   margin: 0;
 }
 .extensions__item--screensaver {
-  width: 30%;
-  min-width: 20em;
+  width: 20em;
+  min-height: 10em;
 }
 .extensions__item--screensaver .extensions__item-imagebox,
 .extensions__item--screensaver .extensions__item-image {
