@@ -40,7 +40,7 @@
                                 <span class="name">A НАЗВАНИЕ </span>
                             </a>
                         </td>
-                        <td>ОПИСАНИЕ</td><td>ОПИСАНИЕ</td><td>ОПИСАНИЕ</td>
+                        <td class="hideable">ОПИСАНИЕ</td><td class="hideable">ОПИСАНИЕ</td><td class="hideable">ОПИСАНИЕ</td>
                     </tr>
 					
 					
