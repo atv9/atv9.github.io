@@ -426,6 +426,45 @@
             return row;
         }
 
+        function renderItems(items, url) {
+            var files = 0;
+            var dirs = 0;
+
+            body.empty();
+            lastFocus = null;
+
+            for (var i = 0; i < items.length; i++) {
+                if (items[i].dir) dirs++;
+                else files++;
+            }
+
+            var meta = $('<div class="apkstore__meta"></div>');
+
+            var count = '';
+            if (dirs) count += '  ·  ' + dirs + ' ' + plural(dirs, '', '', '');
+
+            if (!items.length) {
+                var empty = $('<div class="apkstore__empty"></div>');
+                empty.append($('<div class="apkstore__empty-title"></div>').text('Здесь пока пусто'));
+                empty.append($('<div class="apkstore__empty-text"></div>').text('В этой папке нет APK-файлов.'));
+                body.append(empty);
+            } else {
+                for (var j = 0; j < items.length; j++) {
+                    body.append(makeRow(items[j]));
+                }
+
+                body.append(
+                    $('<div class="apkstore__hint"></div>').text(
+                        'ОК — открыть папку или скачать APK  ·  Назад — предыдущий экран'
+                    )
+                );
+            }
+
+            if (scroll.reset) scroll.reset();
+
+            setLoader(false);
+            toggleActivity();
+        }
 
         function renderError(message) {
             body.empty();
