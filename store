@@ -27,7 +27,11 @@
                                 <span class="name">A НАЗВАНИЕ </span>
                             </a>
                         </td>
-                        <p>ОПИСАНИЕ</p><span>ОПИСАНИЕ</span><td>ОПИСАНИЕ</td>
+                        <p>ОПИСАНИЕ</p>
+                        <text>text</text>
+                        <data>data</data>
+                        <time>time</time>
+                        <info>info</info>
                     </tr>
 					
 					
