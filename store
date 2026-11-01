@@ -40,9 +40,9 @@
                                 <span class="name">A НАЗВАНИЕ </span>
                             </a>
                         </td>
-                        <td class="data-order">ОПИСАНИЕ</td>
-                        <td class="data-order">ОПИСАНИЕ</td>
-                        <td class="data-order">ОПИСАНИЕ</td>
+                        <td data-order="23790614">ОПИСАНИЕ</td>
+                        <td data-order>ОПИСАНИЕ</td>
+                        <td data-order>ОПИСАНИЕ</td>
                     </tr>
 					
 					
