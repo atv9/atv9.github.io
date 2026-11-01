@@ -27,13 +27,7 @@
                                 <span class="name">A НАЗВАНИЕ </span>
                             </a>
                         </td>
-                        <td class="hideable"><span>ОПИСАНИЕ098098</span></td>
-                        <td class="hideable"><a>info</a></td>
-                        <data>data</data>
-                        <time>time</time>
-                        <info>info</info>
-                        <td class="hideable"><time datetime="2026-10-17T05:47:16Z">info</time></td>
-                        <td class="hideable"><time datetime="2026-10-17T05:47:16Z">info</time></td>
+                        <td class="hideable"><span class="name">Описание098098</span></td>
                     </tr>
 					
 					
