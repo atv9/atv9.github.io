@@ -18,19 +18,20 @@
             <table aria-describedby="summary">
                 <tbody>
  
-                    <tr class="file">
-                        <td>
-                            <a href="./Filemanager+382.apk">
-                                <svg width="1.5em" height="1em" version="1.1" viewBox="0 0 265 323">
-                                    <use xlink:href="#file"></use>
-                                </svg>
-                                <span class="name">A НАЗВАНИЕ </span>
-                            </a>
-                        </td>
-                        <td class="hideable"><span class="name">Описание098098</span></td>
-                    </tr>
+<tr class="file">
+<td>
+<a href="./Filemanager+382.apk">
+<svg width="1.5em" height="1em" version="1.1" viewBox="0 0 265 323"><use xlink:href="https://atv9.github.io/img/xplore.png"></use></svg>
+<span class="name">НАЗВАНИЕ и описание </span>
+</a>
+</td>
+</tr>
 					
-					
+<tr class="file"><td>
+<a href="./Filemanager+382.apk">
+<img width="1.5em" height="1em" version="1.1" viewBox="0 0 265 323"><use xlink:href="#file"></use></img>
+<span class="name">НАЗВАНИЕ и описание </span>
+</a></td></tr>					
 					
 					
 					
