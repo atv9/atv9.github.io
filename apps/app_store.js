@@ -6,7 +6,7 @@
     window.apkstore_plugin_ready = true;
 
     var CONFIG = {
-        base: window.APKSTORE_BASE || 'https://atv9.github.io/apps',
+        base: window.APKSTORE_BASE || 'https://atv9.github.io/apps/',
         menu_title: window.APKSTORE_TITLE || 'Приложения',
         component: 'apkstore',
         only_android: true
