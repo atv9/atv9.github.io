@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <title>/</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+<head><title>/</title><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
 
 <body onload='initFilter()'>
     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="0"
@@ -13,7 +8,7 @@
      </svg>
 <header><h1><a href="">/</a></h1></header>
 <main>
-<div class="meta"><div id="summary"><span class="meta-item"><input type="text" placeholder="filter" id="filter" onkeyup='filter()'></span></div></div>
+<div id="summary"><span class="meta-item"><input type="text" placeholder="filter" id="filter" onkeyup='filter()'></span></div>
         <div class="listing">
             <table aria-describedby="summary">
                 <tbody>
