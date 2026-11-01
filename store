@@ -16,11 +16,9 @@
 <span class="name">НАЗВАНИЕ и описание 1 </span>
 </a></td></tr>
 
-<tr><td>
-<a href="./Filemanager9.apk">
-<img class="extensions__item-image loaded" width="1.5em" height="1em" src="https://atv9.github.io/img/xplore.png"></img>
-<span class="name">НАЗВАНИЕ и описание 9 </span>
-</a></td></tr>
+<tr><td><a href="./Filemanager9.apk">
+<img width="1.5em" height="1em" src="https://atv9.github.io/img/xplore.png"></img>
+<span class="name">НАЗВАНИЕ и описание 9 </span></a></td></tr>
 
 <tr class="file"><td>
 <a href="./Filemanager1.apk">
