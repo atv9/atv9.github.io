@@ -11,18 +11,9 @@
     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="0"
         width="0" style="position: absolute;">
      </svg>
-
-    <header>
-        <h1>
-            <a href="">/</a>
-        </h1>
-    </header>
-    <main>
-        <div class="meta">
-            <div id="summary">
-                <span class="meta-item"><input type="text" placeholder="filter" id="filter" onkeyup='filter()'></span>
-            </div>
-        </div>
+<header><h1><a href="">/</a></h1></header>
+<main>
+<div class="meta"><div id="summary"><span class="meta-item"><input type="text" placeholder="filter" id="filter" onkeyup='filter()'></span></div></div>
         <div class="listing">
             <table aria-describedby="summary">
                 <thead>
@@ -41,19 +32,21 @@
                 </thead>
                 <tbody>
                     <tr class="file">
-                        <td></td>
                         <td>
                             <a href="./Filemanager+382.apk">
                                 <svg width="1.5em" height="1em" version="1.1" viewBox="0 0 265 323">
                                     <use xlink:href="#file"></use>
                                 </svg>
-                                <span class="name">Filemanager+382.apk</span>
+                                <span class="name">A НАЗВАНИЕ </span>
                             </a>
                         </td>
-                        <td data-order="23790614">23 MiB</td>
-                        <td class="hideable"><time datetime=" 2026-06-22T14:43:58Z">06/22/2026 02:43:58 PM +00:00</time></td>
-                        <td class="hideable"></td>
+                        <td>ОПИСАНИЕ</td><td>ОПИСАНИЕ</td><td>ОПИСАНИЕ</td>
                     </tr>
+					
+					
+					
+					
+					
                     <tr class="file">
                         <td></td>
                         <td>
