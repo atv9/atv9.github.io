@@ -16,21 +16,8 @@
 <div class="meta"><div id="summary"><span class="meta-item"><input type="text" placeholder="filter" id="filter" onkeyup='filter()'></span></div></div>
         <div class="listing">
             <table aria-describedby="summary">
-                <thead>
-                    <tr>
-                        <th></th>
-                        <th>
-                            <a href="?sort=namedirfirst&order=desc"
-                                class="icon"><svg width="1em" height=".5em" version="1.1"
-                                    viewBox="0 0 12.922194 6.0358899">
-                                    <use xlink:href="#up-arrow"></use>
-                                </svg></a>
-                            <a
-                                href="?sort=name&order=asc">Name</a>
-                        </th>
-                    </tr>
-                </thead>
                 <tbody>
+ 
                     <tr class="file">
                         <td>
                             <a href="./Filemanager+382.apk">
@@ -40,9 +27,7 @@
                                 <span class="name">A НАЗВАНИЕ </span>
                             </a>
                         </td>
-                        <td data-order="23790614">ОПИСАНИЕ</td>
-                        <td data-order>ОПИСАНИЕ</td>
-                        <td data-order>ОПИСАНИЕ</td>
+                        <p>ОПИСАНИЕ</p><span>ОПИСАНИЕ</span><td>ОПИСАНИЕ</td>
                     </tr>
 					
 					
@@ -275,57 +260,7 @@
             </table>
         </div>
     </main>
-    <footer>
-        Served with <a rel="noopener noreferrer" href="https://github.com">Caddy</a>
-    </footer>
-    <script>
-        var filterEl = document.getElementById('filter');
-        filterEl.focus({preventScroll: true});
 
-        function initFilter() {
-            if (!filterEl.value) {
-                var filterParam = new URL(window.location.href).searchParams.get('filter');
-                if (filterParam) {
-                    filterEl.value = filterParam;
-                }
-            }
-            filter();
-        }
-
-        function filter() {
-            var q = filterEl.value.trim().toLowerCase();
-            var elems = document.querySelectorAll('tr.file');
-            elems.forEach(function (el) {
-                if (!q) {
-                    el.style.display = '';
-                    return;
-                }
-                var nameEl = el.querySelector('.name');
-                var nameVal = nameEl.textContent.trim().toLowerCase();
-                if (nameVal.indexOf(q) !== -1) {
-                    el.style.display = '';
-                } else {
-                    el.style.display = 'none';
-                }
-            });
-        }
-
-        function localizeDatetime(e, index, ar) {
-            if (e.textContent === undefined) {
-                return;
-            }
-            var d = new Date(e.getAttribute('datetime'));
-            if (isNaN(d)) {
-                d = new Date(e.textContent);
-                if (isNaN(d)) {
-                    return;
-                }
-            }
-            e.textContent = d.toLocaleString([], {day: "2-digit", month: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"});
-        }
-        var timeList = Array.prototype.slice.call(document.getElementsByTagName("time"));
-        timeList.forEach(localizeDatetime);
-    </script>
 </body>
 
 </html>
