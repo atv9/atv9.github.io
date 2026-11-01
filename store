@@ -27,13 +27,13 @@
                                 <span class="name">A НАЗВАНИЕ </span>
                             </a>
                         </td>
-                        <p>ОПИСАНИЕ</p>
-                        <text>text</text>
+                        <td>ОПИСАНИЕ098098</td>
+                        <td class="hideable"><time datetime="2026-10-17T05:47:16Z">info</time></td>
                         <data>data</data>
                         <time>time</time>
                         <info>info</info>
                         <td class="hideable"><time datetime="2026-10-17T05:47:16Z">info</time></td>
-                        <time datetime="2026-10-17T05:47:16Z">info</time>
+                        <td class="hideable"><time datetime="2026-10-17T05:47:16Z">info</time></td>
                     </tr>
 					
 					
