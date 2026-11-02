@@ -2,7 +2,6 @@
 <html>
 <head><title>/</title><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
 <body onload='initFilter()'>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="0" width="0" style="position: absolute;"></svg>
 <header><h1><a href="">/</a></h1></header>
 <main><div id="summary"><input type="text" placeholder="filter" id="filter" onkeyup='filter()'></div><div class="listing"><table aria-describedby="summary"><tbody>
 
@@ -10,32 +9,26 @@
 
 
 
-<tr class="file"><td>
-<a href="./Filemanager0.apk">
-<png width="1.5em" height="1em"><use xlink:href="https://atv9.github.io/img/xplore.png"></use></png>
-<span class="name">НАЗВАНИЕ и описание 1 </span>
-</a></td></tr>
+<tr><td><a href="./Filemanager0.apk">
+<span class="name">НАЗВАНИЕ и описание 0 </span></a></td></tr>
 
 <tr><td><a href="./Filemanager9.apk">
-<img width="1.5em" height="1em" src="https://atv9.github.io/img/xplore.png"></img>
-<span class="name">НАЗВАНИЕ и описание 9 </span></a></td></tr>
+<span class="name">НАЗВАНИЕ и описание 1 </span></a></td></tr>
 
-<tr class="file"><td>
-<a href="./Filemanager1.apk">
+<tr class="file"><td><a href="./Filemanager1.apk">
 <svg width="1.5em" height="1em" version="1.1" viewBox="0 0 265 323"><use xlink:href="https://atv9.github.io/img/xplore.png"></use></svg>
-<span class="name">НАЗВАНИЕ и описание 1 </span>
-</a></td></tr>
+<span class="name">НАЗВАНИЕ и описание 2 </span></a></td></tr>
 					
 <tr class="file"><td>
 <a href="./Filemanager2.apk">
 <img width="1.5em" height="1em" version="1.1" viewBox="0 0 265 323"><use xlink:href="#file"></use></img>
-<span class="name">НАЗВАНИЕ и описание 2 </span>
+<span class="name">НАЗВАНИЕ и описание 3 </span>
 </a></td></tr>					
 
 <tr class="file"><td>
 <a href="./Filemanager2.apk">
 <img width="1.5em" height="1em" version="1.1" viewBox="0 0 265 323"><use xlink:href="#file"></use></img>
-<span class="name">НАЗВАНИЕ и описание 2 </span>
+<span class="name">НАЗВАНИЕ и описание 4 </span>
 </a></td></tr>	
 
 					
